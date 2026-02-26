@@ -13,12 +13,13 @@ format:
     #css: styles.css
     embed-resources: true
     self-contained: true
+    format-links: false
     fig-cap-location: bottom
     code-copy: true
     code-fold: true
     link-external-newwindow: true
     citations-hover: false
-    html-math-method: mathjax
+    html-math-method: mathml
     crossref:
       fig-title: "Figure"
       tbl-title: "Table"
