@@ -1,0 +1,50 @@
+---
+title: "Problem Set 2"
+subtitle: Economics 100B - Intermediate Microeconomic Theory
+author: "Prof. Muehlegger"
+format:
+  pdf: default
+  html: default
+---
+
+{{< include ../shared/ps_instructions.md >}}
+
+## Question 1: Monopoly and Price Caps
+A monopoly faces an inverse demand curve given by $P = 240 - 2Q$, and has total costs given by $TC = Q^2 + 2400$.
+
+a) What is the profit maximizing quantity and price for the monopoly?
+
+b) What are the monopolist's profits?
+
+c) Draw the diagram clearly labeling the inverse demand, marginal cost and marginal revenue curves, and shading the appropriate regions corresponding to deadweight loss, consumer and producer surplus.
+
+d) Calculate the deadweight loss, consumer and producer surplus.
+
+e) What is the price cap / price ceiling the government would set that would maximize welfare?
+
+f) Suppose that the government regulates the monopoly under the price cap / price ceiling in the previous part. What is the monopolist's profits under the price cap?
+
+## Question 2: Price Discrimination
+
+Suppose a monopolist sells goods to two types of customers: (1) business travelers, and (2) leisure travelers, with inverse demand curves as follows:
+
+Business inverse demand curve: $P = 500 - 4Q$
+
+Leisure inverse demand curve: $P = 300 - Q$
+
+The marginal cost to rent a car is constant and equal to 100.
+
+a) If the firm can perfectly price discriminate, calculate firm profits. What is consumer surplus and deadweight loss?
+
+b) Suppose the firm can set one price for business customers and a different price for leisure customers. What prices and quantities for each group maximize the monopolist's profits?
+
+c) Are consumer surplus, producer surplus and welfare higher or lower in part (b) and part (a). Briefly explain why.
+
+d) What three things have to be true for a firm to be able to price discriminate?
+
+e) Suppose now that the firm can only set one price for all customers (i.e., can't price discriminate). Will this make business customers better off? What about leisure customers? What about the firm?
+
+
+
+
+

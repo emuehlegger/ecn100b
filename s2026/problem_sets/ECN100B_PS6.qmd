@@ -1,0 +1,59 @@
+---
+title: "Problem Set 6"
+subtitle: Economics 100B - Intermediate Microeconomic Theory
+author: "Prof. Muehlegger"
+format:
+  pdf: default
+  html: default
+---
+
+{{< include ../shared/ps_instructions.md >}}
+
+## Question 1: Negative Externalities
+
+A perfectly competitive industry produces a good with inverse demand curve $P = 200 - Q$ and inverse supply curve of $P = 20 + Q.$
+
+In addition, the production of the good imposes costs on a neighboring town where marginal external costs are given by $P = Q$.
+
+a) What is the competitive equilibrium?
+
+b) What is the welfare maximizing level of output?
+
+c) Draw the relevant graph, clearly labeling the inverse demand curve, marginal private cost curve, marginal social cost curve, the competitive equilibrium, the welfare maximizing outcome and the deadweight loss in the unregulated market.
+
+d) Calculate the amount of deadweight loss.
+
+e) What is the welfare-maximizing Pigouvian tax?
+
+f) Draw the relevant graph for part (e), clearly labeling the inverse demand curve, marginal private cost curve, marginal social cost curve, and show how the relevant curve will shift once the Pigouvian tax in part (e) is enacted.
+
+g) Now, suppose that the firm is produced by a monopolist rather than firms in a perfectly competitive industry. How much will the monopolist choose to produce?
+
+h) What would be the optimal tax to levy on the monopolist if the government wanted to maximize welfare? Briefly explain why your answer to part (h) is different than your answer to part (e).
+
+## Question 2: Public Goods
+
+The city of Davis operates a public pool during the summer months and can choose how many hours to operate the pool. Suppose that it costs $16 per hour to keep the pool open. Assume that the public pool is free to enter and can easily accommodate all 11 residents.
+
+- The first resident is a professor with kids who has a very high valuation pool hours in the summer. His / her demand for pool hours per day is given by $P = 20 - H$
+- The other ten residents are students, who have lower valuations for summer pool hours. His / her demand for pool hours per day is given by $P = 2 - (\frac{1}{10})*H$
+
+a) Although in this case, we are assuming that a public pool is free to enter and can easily accommodate all 11 residents, explain whether in practice a public pool is rivalrous and/or excludable.
+
+b) If the pool is financed through donations, will the pool be open? How long will it be open? Who will pay? And who will go to the pool?
+
+c) Draw the diagram illustrating the outcomes in part (b).
+
+d) What is the surplus generated from the pool in part (b)?
+
+e) Now, assume that the city of Davis finances the pool through taxes. How many hours should the pool be open to maximize welfare?
+
+f) Draw the diagram illustrating the outcomes in part (e)?
+
+g) What is the surplus generated from the pool in part (e)?
+
+h) What is the deadweight loss from private provision of the public good in part (b)?
+
+
+
+

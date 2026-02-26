@@ -1,0 +1,60 @@
+---
+title: "Problem Set 8"
+subtitle: Economics 100B - Intermediate Microeconomic Theory
+author: "Prof. Muehlegger"
+format:
+  pdf: default
+  html: default
+---
+
+{{< include ../shared/ps_instructions.md >}}
+
+## Question 1: Adverse Selection
+
+-    Amazon sells two types of handbags: Authentic (denoted A), and Counterfeit (denoted C).
+-    Buyers are willing to pay \$200 for an authentic handbag and \$20 for a counterfeit handbag.
+-    Sellers are willing to sell authentic handbags for \$150 and are willing to sell counterfeit handbags for \$10.
+-    Sellers either sell authentic handbags or counterfeit handbags, but not both.
+
+a) Describe what would happen in this market if buyers could distinguish authentic and counterfeit handbags online before buying them.
+
+b) Now suppose, the two types of handbags are difficult to tell apart online, but once someone owns the handbag in person, they can determine whether the handbag is authentic or counterfeit. What is adverse selection and why might it be relevant in this context?
+
+c) If 50% of the handbag sellers sell authentic handbags, will both types of handbags be sold on Amazon or will only one type of handbag be sold? Briefly explain your answer.
+
+d) Would your answer change if 90% of handbag sellers sold authentic handbags? Briefly explain why or why not.
+
+e) How might reviews on Amazon might play a role in resolving the adverse selection problem?
+
+f) Is there anything that sellers of authentic handbags might be able to do to signal to buyers that they sell authentic handbags?
+
+## Question 2: Moral Hazard
+
+-   A paper company employs a worker named Dwight.
+
+-   The paper company offers three contracts from which Dwight can choose:
+
+1.   A salary of \$750 / week.
+
+2.   A salary of \$400 / week plus a commission of 20% of all sales. (i.e. if he makes \$1000 of sales, he receives a bonus of \$200).
+
+3.   No salary, but a commission of 50% of all sales.
+
+-   Dwight's sales depend on how many 'hard' hours he puts in while at work. His weekly sales are \$1000 + \$100*H where H is the number of 'hard' hours of work he puts in. 'Easy' hours (i.e.,drinking coffee, playing pranks, etc) do not help his sales.
+
+-   Dwight also enjoys his leisure time, though. If he works a lot of 'hard' hours, it makes him sad. His utility is given by: $U = X - \frac{1}{2}H^2$ where X is the amount of money he makes. So, for example, if he makes \$1200 but work 40 hours, his utility is $U= 1200 ' \frac{1}{2} *40*40 = 1200 - 800 = 400$.
+
+a) Briefly discuss why the problem described above is a 'principal-agent' problem?
+
+b) How much will Dwight work under each of the different contracts? Which does he prefer?
+
+c) Which of the contracts provides the highest payoff for the paper company after paying Dwight?
+
+d) How do your answers to parts (a), (b) and (c) relate to moral hazard and residual-claimancy? Briefly explain.
+
+e) Suppose that another worker, named Andy, is offered the same contract, but is not as good a salesman. His weekly sales are \$1000 + \$10*H. Will he prefer the same contract? Why or why not?
+
+
+
+
+

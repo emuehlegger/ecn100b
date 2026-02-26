@@ -1,0 +1,55 @@
+---
+title: "Problem Set 4"
+subtitle: Economics 100B - Intermediate Microeconomic Theory
+author: "Prof. Muehlegger"
+format:
+  pdf: default
+  html: default
+---
+
+{{< include ../shared/ps_instructions.md >}}
+
+## Question 1: Cournot Competition
+
+Samarium is a rare-earth element that is used to produce magnets with permanent magnetization, drugs
+for chemotherapy, control rods for nuclear reactors and aerospace equipment. It is costly to extract from
+the ground, creates a lot of pollution when mined and refined. Firms that produce Samarium must plan
+production in advance and production is relatively slow to adjust.
+
+Suppose:
+
+-    World demand for Samarium is given by the inverse demand curve P = 26,000 - 2Q, where Q is in tons.
+-    The marginal cost to extract a ton of Samarium is MC = 2000
+
+a) Suppose a single firm supplied Samarium. What would be the profit maximizing price set by the
+    monopolist?
+b) Suppose two identical firms supplied Samarium. Why might we think Cournot competition
+    would be a reasonable model for this industry?
+c) Write down the profit function for firm A. What is firm A's best response function?
+d) In the Cournot equilibrium, how much would each firm produce? What would be the market
+    clearing price?
+e) What would be the firms' profits, the consumer surplus and the deadweight loss?
+f) What would happen if one of firms (say firm B) faced a capacity constraint and could produce,
+    at most, Q = 200. How much would firm A produce? What would be the equilibrium price?
+
+## Question 2: Differentiated Products
+
+Two firms, A and B, are located at either end of a one mile stretch of road. There are 100 consumers in the
+town and the number of consumers that each firm sells to depends on the price they set and the price that
+their competitor sets.
+
+Suppose that demand for A and B is given by:
+
+$Q = 50 - 5P + 5P$        and    $Q = 50 - 5P + 5P$
+
+Furthermore, assume that both firms have constant marginal cost equal to 40 and no fixed costs.
+
+a) What is the difference between a differentiated product and the Cournot model of competition?
+    What a real-world example of differentiated products?
+b) What is the profit function for firm A?
+c) What is firm A's best response function?
+d) What will be the Nash equilibrium prices that A and B will set?
+
+
+
+

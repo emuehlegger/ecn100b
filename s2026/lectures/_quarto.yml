@@ -1,0 +1,46 @@
+project:
+  type: default
+
+format:
+  revealjs:
+    theme: default
+    slide-number: true
+    hash: true
+    controls: true
+    progress: true
+    center: false
+    transition: slide
+    incremental: false
+    pdf-export: true
+    pdf-separate-fragments: false
+    chalkboard: false
+    preview-links: true
+
+execute:
+  echo: false
+  warning: false
+  message: false
+  cache: false
+
+
+######################################################################
+# Notes on key options (quick reference)
+#
+# HTML
+# - embed-resources / self-contained: bundle images/CSS/JS into the HTML output so
+#   you can post a single file (useful for Canvas uploads or offline viewing).
+# - toc / number-sections / anchor-sections: navigation + stable deep links.
+# - code-copy / code-fold: helpful if you show code or solutions occasionally.
+#
+# PDF
+# - documentclass / geometry / fontsize / linestretch: readable handouts.
+# - colorlinks: clickable links in the PDF (instead of boxed links).
+# - fig-pos: default LaTeX figure placement suggestion.
+#
+# revealjs
+# - incremental: false ensures bullets do NOT reveal one-by-one by default.
+# - pdf-export: true enables Quarto’s revealjs PDF export when rendering
+#   (you’ll typically get an HTML deck and a PDF version in the output).
+# - pdf-separate-fragments: false avoids expanding incremental fragments into
+#   extra PDF pages (since incremental is off anyway).
+######################################################################

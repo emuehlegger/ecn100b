@@ -1,0 +1,202 @@
+---
+title: "Economics 100B: Intermediate Microeconomic Theory"
+subtitle: "Imperfect Competition and Market Failure"
+author: "Erich Muehlegger"
+date: "Spring 2026"
+format:
+  html: default
+  pdf: default
+---
+
+# Department of Economics  
+University of California, Davis  
+
+**Erich Muehlegger**  
+1120 SSH  
+
+---
+
+## Lecture
+
+**Sections A01 – A04:**  TR 9 – 10:20 AM, Giedt 1003  
+**Sections B01 – B04:**  TR 1:40 – 3:00 PM, Walker 1310  
+
+---
+
+## Discussions
+
+**Section A01:**  T 6:10 – 7:00 PM, Giedt 1007  
+**Section A02:**  T 7:10 – 8:00 PM, TLC 3212  
+**Section A03:**  W 6:10 – 7:00 PM, Giedt 1006  
+**Section A04:**  W 7:10 – 8:00 PM, Giedt 1006  
+**Section B01:**  T 6:10 – 7:00 PM, TLC 3213  
+**Section B02:**  T 7:10 – 8:00 PM, Giedt 1007  
+**Section B03:**  R 5:10 – 6:00 PM, Wellman 201  
+**Section B04:**  R 6:10 – 7:00 PM, Wellman 201  
+
+---
+
+# Teaching Team
+
+## Faculty
+Erich Muehlegger (he/him)  
+email: emuehlegger@ucdavis.edu  
+
+## Teaching Assistants
+
+Francisco Pizzi  
+email: fmpizzi@ucdavis.edu  
+
+Jessica Lyu  
+email: jzlyu@ucdavis.edu  
+
+Maria Paula Pulido  
+email: mpmedina@ucdavis.edu  
+
+Robert Reaser  
+email: rreaser@ucdavis.edu  
+
+## Office Hours
+
+Office hours will be announced on Canvas. You may attend the office hours for TAs from any of the sessions.
+
+---
+
+# Course Overview
+
+This course is the second part of a two-part sequence in Intermediate Microeconomics. In the first part, Economics 100A, you learned how consumers maximize utility and how firms maximize profits. In this second part, we will build upon these concepts by exploring how firms maximize profits in the face of imperfect competition, how market failures such as asymmetric information and externalities affect choices and welfare, and how consumers and firms optimize when facing uncertainty. You will also learn new analytical tools used by other upper-division Economics courses at UC Davis.
+
+## Course Pre-requisites
+
+To take this class, you must have taken Economics 100A and either Math 16A-16B, Math 17A-17B, or Math 21A-21B, with a grade of C- or higher in each of these courses. Please consult the Advising Center in SSH 2216 (ecnugadvisor@ucdavis.edu) if you have any questions or concerns about the prerequisites.
+
+We will use calculus in this class. You will need to be comfortable with mathematical functions and basic algebra to understand the material and to complete the coursework.
+
+---
+
+# Resources to Help You Succeed in the Course
+
+## Lectures
+
+It is necessary to attend lecture to do well in the course. I will post my lecture notes that preview the material to be covered on Canvas before the relevant class. The handouts are meant to be a resource to you. While some people prefer to keep their own notes, other prefer to annotate the handouts. You are free to choose whichever method is most useful to you. The material for this course and exams will be self-contained within the lecture notes and the lectures themselves.
+
+## Sections
+
+I strongly recommend you attend sections. Sections will be used to discuss problem set and exam solutions as well as supplement the material covered in class with additional examples. They will be an invaluable resource for you. We are lucky to have excellent TAs as part of the teaching team. Their section times and locations are posted above.
+
+## Office Hours
+
+If you have questions about the material or your performance in the course, drop into my office hours. The zoom link is above as well as on Canvas under “Zoom.”
+
+---
+
+# Course Materials
+
+## Recommended Textbook
+
+*Microeconomics: Theory and Applications with Calculus*, by Jeffrey M. Perloff  
+
+I will cover all of the material relevant to the class and exams during lecture. But, I recommend the textbook above for additional examples and explanations. I use the 5th Edition but any edition is fine.
+
+## In-class Polling
+
+I use in-class polling in almost every lecture. I find in-class polling to be an effective way to increase class engagement as well as evaluate class understanding of the material. I use iClicker, which is available at no cost to you. We will discuss polling in the first class.
+
+## Canvas and Course Announcements
+
+All material for the course will be distributed through the course page on Canvas. This includes posted lecture notes, problem sets, problem set solutions, sample exam questions and solutions. Important information about the course will be posted on Canvas as well as disseminated via email to the class list. It is your responsibility to check your UCD registered email account.
+
+---
+
+# Grading and Course Requirements
+
+## Requirements
+
+The course grade will be determined from:
+- Weekly problem sets  
+- One midterm  
+- A final exam  
+- Weekly quizzes  
+
+Weighting:
+- Final Exam — 35%  
+- Midterm Exam — 25%  
+- Weekly Quizzes — 20%  
+- Problem Sets — 20%  
+
+---
+
+## Exams
+
+All exams will be held in person and are closed-book exams. Exams must be taken as scheduled except in the case of hospitalization or family emergency. Please note that SHCS no longer provides documentation to excuse students from exams for routine illness. This means that if your symptoms are mild or you are just “normal” sick, SHCS will not provide a letter that excuses you from the exam. If, on the other hand, you have a documented emergency or are hospitalized, a hospital admission will excuse you from the exam.
+
+Students are also required to notify me that you will be missing the exam prior to the beginning of an exam unless, of course, this is entirely impossible. If you have an excused absence from an exam, the remaining course requirements will be re-weighted. Unexcused absences will result in an exam grade of zero.
+
+### Midterm
+
+The midterm exam will cover all material prior to the midterm, up to and including the class just before the midterm.
+
+### Final
+
+The final exam will be comprehensive, covering all the material taught in the class. However, material covered in the second half of the class (post-midterm) will receive added emphasis on the final.
+
+## Weekly Quizzes
+
+Each Friday, you will be responsible for completing a very short (10 minute) 5 question multiple choice Canvas quiz. The quiz will be available each Friday from 12am – 11:59pm Pacific. You must take the quiz by yourself without aid from other students or generative AI, but may consult your class notes when taking the quiz.
+
+The quiz is meant to emphasize major themes and takeaways from the week’s material. Quizzes not completed will receive a score of 0. There will be no make-up quizzes offered, but I will drop your lowest quiz score when calculating final grades.
+
+---
+
+## Problem Sets
+
+We will have weekly problem sets, which are due ten minutes after the beginning of class on the day designated. You will submit your assignments on Canvas. Hard copies delivered in class will not be accepted.
+
+Problem sets will be graded based on a “check-plus/check/check-minus" assessment based on completion. You can receive full credit for the problem set even if you make mistakes, as long as you have demonstrated a sincere effort to complete each problem. Incomplete or late problem sets will be accepted for partial credit.  I will drop each student’s lowest problem set grade when calculating final grades. You are encouraged to work on the problem sets in small groups, but you must write your own answers to the questions.
+
+---
+
+# Class Policies
+
+## Academic Honesty
+
+I believe that the majority of students do not cheat and are genuinely offended when others get away with cheating. As a result, I actively try to detect cheating. Any instance of apparent academic dishonesty will be immediately reported to Student Judicial Affairs. Students are expected to adhere to the [UC Davis Code of Academic Conduct](https://ossja.ucdavis.edu/code-academic-conduct).
+
+If you are found by Judicial Affairs to have cheated on an exam, you will receive an "F" in the course. If you are found to have cheated on an assignment worth more than 2% of your course grade, you will receive one whole letter grade (i.e., C+ instead of B+) less than your final course score would have indicated.
+
+---
+
+## Accessibility
+I am committed to creating a learning environment that is as accessible and inclusive as possible. I make every effort to ensure that course materials, activities, and technologies are accessible to all students. That said, I may not be perfect in my efforts. If you encounter any barriers to access in this course, or if you need course content in an alternative or remediated accessible format—please let me know as soon as possible.  I welcome feedback and will work promptly to address accessibility needs. Students with disabilities who wish to request academic accommodations are encouraged to contact [Student Disability Services](https://sdc.ucdavis.edu/) as early as possible in the semester to begin the accommodations process. Once accommodations are approved, please share your accommodation notification with me so that we can implement them effectively.
+
+
+---
+
+## Generative AI
+
+ChatGPT and other LLMs are very exciting innovations. I welcome your use of these technologies as learning tools and would love to learn more about how you as students use them to learn more efficiently and effectively. But, two words of caution.
+
+While ChatGPT is an impressive tool for learning and gathering information, it's important to remember that its accuracy is not perfect. ChatGPT is an artificial intelligence language model, and like all technology, it has its limitations. Although it has been trained on a vast amount of data, it may not always provide the accurate or complete information on a particular topic. It's important to critically evaluate the information it provides and corroborate it with other sources before relying upon it.
+
+It's also important to note that while using ChatGPT for learning purposes can be helpful, it may not necessarily prepare you well for an in-class examination. Examinations typically require the application of knowledge to specific scenarios or questions, and may require a deeper understanding of the material than simply regurgitating information. It's important to engage with the material in a variety of ways, including through class lectures and discussions, reading course materials, and practicing problem-solving exercises yourself to prepare for the midterm and final exams.
+
+In this course, AI use is limited in order to preserve the development of independent analytical and quantitative skills. That said, generative AI may be used as a learning tool, while exercising appropriate caution regarding accuracy and preparation for in-class exams. 
+- AI tools MAY be used for clarification of concepts, definitions, high-level review, or the generation of practice problems.
+- AI tools MAY NOT be used to generate solutions to problem sets or quizzes and may not be used during exams. Submitting AI-generated solutions as your own work constitutes academic misconduct.
+
+---
+
+# Course Outline (tentative, subject to revision)
+
+| Week | Main Concepts | Perloff Readings |
+|------|---------------|------------------|
+| Week 1 | Introduction; Monopoly (profit maximization, market power, welfare effects) | 11.1–11.2 |
+| Week 2 | Monopoly (pricing, welfare); Price Discrimination | 11.3–11.5; 12.1–12.3 |
+| Week 3 | Monopsony; Static Game Theory (normal-form games, Nash equilibrium) | 11.7; 13.1 |
+| Week 4 | Cournot Oligopoly; Product Differentiation | 14.1–14.3; 14.5–14.6 |
+| Week 5 | Dynamic Game Theory; Stackelberg Competition | 13.3; 14.4 |
+| Week 6 | Midterm Exam; Externalities (Pigouvian taxation, Coase theorem) | 17.1–17.2 |
+| Week 7 | Externalities (policy design); Public Goods | 17.3–17.4; 17.6 |
+| Week 8 | Choice Under Uncertainty (expected utility, risk aversion, insurance) | 16.1–16.5 |
+| Week 9 | Asymmetric Information (Adverse Selection and Moral Hazard) | 18.1–18.5; 19.1–19.6 |
+| Week 10 | Wrap-up and Final Exam Preparation | — |

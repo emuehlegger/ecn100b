@@ -1,0 +1,54 @@
+---
+title: "Problem Set 7"
+subtitle: Economics 100B - Intermediate Microeconomic Theory
+author: "Prof. Muehlegger"
+format:
+  pdf: default
+  html: default
+---
+
+{{< include ../shared/ps_instructions.md >}}
+
+## Question 1: Risk and Uncertainty
+
+Consider the following uncertain event. An investor can choose between three options:
+
+- A safe investment that is worth \$2500 with certainty.
+- A risky investment that is worth \$40,000 with probability 10%, and \$0 with probability 90%
+- A diversified investment that is worth \$10,000 with probability 30%, and \$0 with probability 70%
+
+a) Which of the following options has the highest expected value? What does that tell us about the preferences for a risk-neutral investor?
+
+b) Can you conclude anything from part (a) about which option a risk-seeking investor would prefer? Briefly explain.
+
+c) Suppose that the investor has a utility for wealth given by $U(W) = \sqrt{W}$. What does that utility function tell us about the investor's preference for risk? Briefly describe your answer.
+
+d) Given the investor's utility function from part (b), which investment maximizes expected utility?
+
+e) Given the investor's utility function from part (b), what is the certainty equivalent for each of the three investments? (i.e., the certain amount that would yield similar utility)?
+
+f) How much would the probability that the risky investment is worth \$40,000 have to be in order for the risk averse investor to be indifferent between the risky investment and the option in part (d) that maximizes his or her expected utility?
+
+## Question 2: Mitigating Risk
+
+The NBA finals feature the Denver Nuggets and the Miami Heat. A manufacturer has two choices:
+
+1. Produce shirts and souvenirs for Denver. This is worth \$10,000 if Denver wins and $900 if Denver loses.
+2. Produce shirts and souvenirs for Miami. This is worth \$10,000 if Miami wins and $900 if Miami loses.
+3. Produce shirts and souvenirs for UC Davis: This is worth \$3600 regardless of the outcome of the NBA finals.
+
+Suppose that the probability that Denver wins is 60%.
+
+a) Calculate expected value for each of the three options. What choice would a risk-neutral manufacturer make?
+
+b) Suppose that next door to the manufacturer, there is fortune teller who can perfectly predict who will win the NBA finals. If the fortune tells the factory owner that they can predict the winner for \$2500, is it worth it to the risk-neutral factory owner to pay? What is the most that the manufacturer would be willing to pay?
+
+c) Now suppose that the manufacturer is risk-averse with a utility function given by $U(W) = \sqrt{W}$. What is the expected utility of each option? What choice would the risk-averse manufacturer make?
+
+d) Did your answer in part (c) change relative to your answer in part (a)? Briefly explain why or why not.
+
+e) Finally, suppose the manufacturer could choose to split production and produce some items for Denver and some items for Miami. The items for the winning team are worth \$5000 and the items for the losing team are worth \$450. Would the risk-adverse manufacturer prefer this to their choice in part (c)? Briefly explain why or why not.
+
+
+
+

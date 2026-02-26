@@ -1,0 +1,64 @@
+---
+title: "Problem Set 5"
+subtitle: Economics 100B - Intermediate Microeconomic Theory
+author: "Prof. Muehlegger"
+format:
+  pdf: default
+  html: default
+---
+
+{{< include ../shared/ps_instructions.md >}}
+
+## Question 1: Sequential Game
+
+Imagine the same Professor and Students are playing a sequential game. Students move first and decide to
+show up to class or to not show up. Professor moves second and decides whether to threaten a quiz for the
+next lecture or not. Students then decide whether to attend the next lecture or not. Professor, who has a quiz
+prepared, observes whether students attend or not and then decides finally whether or not to actually give
+the quiz. Payouts (where the first number is for the student and the second is for the professor) are as
+follows:
+
+- Stud. show up to class 1, Prof. threatens quiz, Stud. show up to class 2, Prof. gives quiz                       (2,3)
+- Stud. show up to class 1, Prof. threatens quiz, Stud. show up to class 2, Prof. does not give quiz               (3,4)
+- Stud. show up to class 1, Prof. threatens quiz, Stud. don't show up to class 2, Prof. gives quiz                 (2,2)
+- Stud. show up to class 1, Prof. threatens quiz, Stud. don't show up to class 2, Prof. does not give quiz         (4,3)
+- Stud. show up to class 1, Prof. does not threaten, Stud. show up to class 2, Prof. gives quiz                    (2,3)
+- Stud. show up to class 1, Prof. does not threaten, Stud. show up to class 2, Prof. does not give quiz            (3,4)
+- Stud. show up to class 1, Prof. does not threaten, Stud. don't show up to class 2, Prof. gives quiz              (2,2)
+- Stud. show up to class 1, Prof. does not threaten, Stud. don't show up to class 2, Prof. does not give quiz      (4,4)
+- Stud. don't show up to class 1, Prof. threatens quiz, Stud. show up to class 2, Prof. gives quiz                 (3,2)
+- Stud. don't show up to class 1, Prof. threatens quiz, Stud. show up to class 2, Prof. does not give quiz         (4,3)
+- Stud. don't show up to class 1, Prof. threatens quiz, Stud. don't show up to class 2, Prof. gives quiz           (2,1)
+- Stud. don't show up to class 1, Prof. threatens quiz, Stud. don't show up to class 2, Prof. does not give quiz   (5,2)
+- Stud. don't show up to class 1, Prof. does not threaten, Stud. show up to class 2, Prof. gives quiz              (3,2)
+- Stud. don't show up to class 1, Prof. does not threaten, Stud. show up to class 2, Prof. does not give quiz      (4,3)
+- Stud. don't show up to class 1, Prof. does not threaten, Stud. don't show up to class 2, Prof. gives quiz        (2,1)
+- Stud. don't show up to class 1, Prof. does not threaten, Stud. don't show up to class 2, Prof. does not give quiz (5,3)
+
+a) Draw the game tree for this game.
+
+b) How many subgames does this game have?
+
+c) What is the subgame perfect Nash Equilibrium for this game?
+
+d) Do Students believe Professor's threat of a quiz?
+
+## Question 2: Stackelberg Competition
+
+a) What is the difference between Cournot competition and Stackelberg competition? What is a real-world example of Stackelberg competition?
+
+b) Consider the following example. Two firms, an entrant and incumbent, choose quantities in Stackelberg competition, with the incumbent moving first.
+
+-    Demand is given by $P = 40 - (Q_I + Q_E)$
+
+-    Marginal Cost is constant for both firms. $MC_I = MC_E = 16.$
+  
+  How much will the incumbent produce? How much will the entrant produce? What will be the market price? What will each firm's profits be?
+
+c) How would your answers to part (c) change if the firms were competing as Cournot competitors.
+
+d) Are the incumbent, entrant and consumers better off under Stackelberg or Cournot competition? Briefly explain why.
+
+
+
+

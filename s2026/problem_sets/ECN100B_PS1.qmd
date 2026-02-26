@@ -1,0 +1,55 @@
+﻿---
+title: "Problem Set 1"
+subtitle: Economics 100B - Intermediate Microeconomic Theory
+author: "Prof. Muehlegger"
+format:
+  pdf: default
+  html: default
+  
+---
+
+{{< include ../shared/ps_instructions.md >}}
+
+
+
+## Question 1: Perfect Competition
+
+Suppose that there are 200 perfectly competitive firms that sell vegetables.  
+
+- Each firm faces total costs of $TC(q)= 10q^2 + 90.$  
+
+- Market demand is $Q_D(P) = 1500 - 5P.$
+
+a) Derive the firm supply curve.  
+
+b) Derive the market supply curve.  
+
+c) What are equilibrium price and equilibrium quantity?  
+
+d) Graph the inverse demand and inverse supply curves for the market the equilibrium price and quantity.  
+
+e) Calculate consumer and producer surplus.  
+
+f) In the short-run, do the firms earn zero economic profits? Describe what will happen in the long-run. (Note: you do not need to do any calculations for the long-run calculation, but you can if you want)  
+
+
+## Question 2: Monopoly 
+
+Now, suppose that all of the 200 firms are replaced by a single, monopoly.  
+
+- Market demand is the same as above $Q_D(P) = 1500 - 5P.$  
+
+- The monopoly has total costs of $TC(Q)= (\frac{1}{20}) Q^2 + 18000.$  
+
+a) What is the profit maximizing price for the monopoly?  
+
+b) What is the monopolist's profit?  
+
+c) Draw the diagram for the monopoly. Make sure to include the profit maximizing price and quantity, the inverse demand curve and the monopolist's marginal revenue and marginal cost curves.  
+
+d) Calculate consumer surplus, producer surplus, and deadweight loss.  
+
+e) In the short-run, the monopoly earns positive economic profits. Will the monopoly continue to do so in the long-run? Why or why not?
+
+
+

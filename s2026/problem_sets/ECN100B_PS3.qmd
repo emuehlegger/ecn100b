@@ -1,0 +1,60 @@
+---
+title: "Problem Set 3"
+subtitle: Economics 100B - Intermediate Microeconomic Theory
+author: "Prof. Muehlegger"
+format:
+  pdf: default
+  html: default
+  
+---
+
+{{< include ../shared/ps_instructions.md >}}
+
+Due Tuesday, April 22.
+
+## Question 1: Monopsony
+
+There are many small strawberry growers in the Central Valley. Let Q denote the number of tons of strawberries that growers produce and P denote the price of strawberries.
+
+- The inverse supply curve for strawberries is given by: $P = \frac{1}{10}Q$.
+- The inverse demand curve for strawberries is given by: $P = 120 - \frac{1}{10}Q$.
+
+a) If there are many small buyers for strawberries, what will be market price and how many tons of strawberries will be produced?
+
+b) Now, suppose there is only a single buyer of strawberries. Write the expressions for the monopsonist's total expenditure and marginal expenditures on strawberries.
+
+c) With a single buyer, what will be market price and how many tons of strawberries will be produced?
+
+d) Draw the graph illustrating the monopsony decision. Be sure to include the inverse demand and supply curves of labor, the marginal expenditure curve, and label the equilibrium price and quantity of strawberries.
+
+e) Calculate consumer surplus, producer surplus, and deadweight loss.
+
+f) Briefly explain how the government might use a price floor / minimum price for strawberries to increase welfare.
+
+## Question 2: Static Game Theory
+
+Suppose two players are playing a game, Even and Odd. Each player has a quarter and must secretly turn the quarter to heads or tails. The players then reveal their choices simultaneously. If the quarters match (both heads or both tails), then Even keeps both quarters and wins one from Odd (+25 for Even, -25 for Odd). If the quarters do not match (one heads and one tails), Odd keeps both quarters and wins one from Even (-25 for Even, +25 for Odd).
+
+a) Please draw the payoff matrix for this game.
+
+b) Does Even have a dominant strategy? Why or why not?
+
+c) Does Odd have a dominant strategy? Why or why not?
+
+d) Is there a Nash Equilibrium of this game?
+
+## Question 3: Static Game Theory
+
+Imagine a game with a Professor and Students (who all act together as one player). The Professor is giving a final exam and has to decide whether to make it easy or hard. Students have to decide whether to put low effort, medium effort, high effort, or max effort into studying for the exam. Both players decide simultaneously.
+
+Payoffs are as follows:
+
+![Payoff matrix for a Professor (rows: Easy, Hard) and Students (columns: Max, High, Medium, Low). In each cell, the lower-left value is the Professor payoff and the upper-right value is the Students payoff. Easy row: (8,6), (6,8), (4,10), (2,4). Hard row: (12,8), (10,6), (2,4), (0,2).](images/ps3_q3.png)
+
+a) Does Professor have a dominant strategy? Why or why not?
+
+b) Do Students have a dominant strategy? Why or why not? Are any of the student strategies dominated? Why or why not?
+
+c) What is / are the Nash Equilibrium of this game?
+
+d) If there are multiple Nash Equilibria, which one will be selected in the end? If there is no Nash Equilibrium, how will the game end?

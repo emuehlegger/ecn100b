@@ -1,0 +1,77 @@
+{
+  "syllabus.qmd": {
+    "syllabus.html": "8556fa02",
+    "syllabus.tex": "30521dd7"
+  },
+  "ECN100B_PS1.qmd": {
+    "ECN100B_PS1.tex": "0e8a3508",
+    "ECN100B_PS1.html": "d43fd0ce"
+  },
+  "problem_sets/ECN100B_PS1.qmd": {
+    "ECN100B_PS1.html": "ade9c28e",
+    "ECN100B_PS1.tex": "38d70492"
+  },
+  "problem_sets/ECN100B_PS1_solutions.qmd": {
+    "ECN100B_PS1_solutions.html": "4f4d0b08",
+    "ECN100B_PS1_solutions.tex": "3dc92a7e"
+  },
+  "problem_sets/ECN100B_PS2.qmd": {
+    "ECN100B_PS2.html": "35732226",
+    "ECN100B_PS2.tex": "21f7bfb8"
+  },
+  "problem_sets/ECN100B_PS2_solutions.qmd": {
+    "ECN100B_PS2_solutions.html": "3a6ada1d",
+    "ECN100B_PS2_solutions.tex": "8c0aeef1"
+  },
+  "problem_sets/ECN100B_PS3.qmd": {
+    "ECN100B_PS3.html": "d123c627",
+    "ECN100B_PS3.tex": "2aac940b"
+  },
+  "problem_sets/ECN100B_PS3_solutions.qmd": {
+    "ECN100B_PS3_solutions.html": "1e73b631",
+    "ECN100B_PS3_solutions.tex": "43f31b69"
+  },
+  "problem_sets/ECN100B_PS4.qmd": {
+    "ECN100B_PS4.html": "b41ac5a8",
+    "ECN100B_PS4.tex": "34b66b69"
+  },
+  "problem_sets/ECN100B_PS4_solutions.qmd": {
+    "ECN100B_PS4_solutions.html": "0cfd6728",
+    "ECN100B_PS4_solutions.tex": "2a62ef16"
+  },
+  "problem_sets/ECN100B_PS5.qmd": {
+    "ECN100B_PS5.html": "bd407235",
+    "ECN100B_PS5.tex": "c000a8e8"
+  },
+  "problem_sets/ECN100B_PS5_solutions.qmd": {
+    "ECN100B_PS5_solutions.html": "bdc877da",
+    "ECN100B_PS5_solutions.tex": "62aaf282"
+  },
+  "problem_sets/ECN100B_PS6.qmd": {
+    "ECN100B_PS6.html": "a457131e",
+    "ECN100B_PS6.tex": "51a9b207"
+  },
+  "problem_sets/ECN100B_PS6_solutions.qmd": {
+    "ECN100B_PS6_solutions.html": "9243204b",
+    "ECN100B_PS6_solutions.tex": "68b7bcab"
+  },
+  "problem_sets/ECN100B_PS7.qmd": {
+    "ECN100B_PS7.html": "a077ad90",
+    "ECN100B_PS7.tex": "d2d1d015"
+  },
+  "problem_sets/ECN100B_PS7_solutions.qmd": {
+    "ECN100B_PS7_solutions.html": "36e089a2",
+    "ECN100B_PS7_solutions.tex": "8e8d0d93"
+  },
+  "problem_sets/ECN100B_PS8.qmd": {
+    "ECN100B_PS8.html": "e23dc39f",
+    "ECN100B_PS8.tex": "a90fd4f5"
+  },
+  "problem_sets/ECN100B_PS8_solutions.qmd": {
+    "ECN100B_PS8_solutions.html": "be4c5e1a",
+    "ECN100B_PS8_solutions.tex": "90f6daa8"
+  },
+  "landingpage.qmd": {
+    "landingpage.html": "c233c5fc"
+  }
+}

@@ -1,0 +1,111 @@
+---
+title: "ECN 100B — Intermediate Microeconomic Theory"
+subtitle: "Imperfect Competition and Market Failure"
+author: "Erich Muehlegger"
+format:
+  html: default
+  
+---
+
+# Welcome to Economics 100B
+## Intermediate Microeconomic Theory — Imperfect Competition and Market Failure ##
+
+This course is the second part of a two-part sequence in Intermediate Microeconomics. In Economics 100A, you learned how consumers maximize utility and how firms maximize profits. In this second part, we build upon these concepts by exploring how firms maximize profits in the face of imperfect competition, how market failures such as asymmetric information and externalities affect choices and welfare, and how consumers and firms optimize when facing uncertainty. You will also learn new analytical tools used by other upper-division Economics courses at UC Davis. 
+
+---
+
+# Your Instructor
+::: {.columns}
+
+::: {.column width="50%"}
+![Cartoon picture of Erich Muehlegger](images/cartoon_muehlegger.png){.column width="70%"}
+:::  
+
+::: {.column width="50%"}
+Erich Muehlegger is a Professor of Economics at the University of California, Davis, and a research associate of the National Bureau of Economic Research. His research interests include industrial organization, public finance, economic regulation, and environmental policy. Much of his recent research studies the role and impact of government policy in decarbonizing the transportation sector. He has taught at UC Davis since 2014 and at Harvard Kennedy School from 2005-2014.
+*Email: emuehlegger@ucdavis.edu*
+:::
+
+:::
+---
+
+# Resources to help you succeed in this course
+
+### Lectures
+It is necessary to attend lecture to do well in the course. Lecture notes that preview the material will be posted on Canvas before class. The material for this course and exams will be self-contained within the lecture notes and the lectures themselves. 
+
+### Sections
+I strongly recommend you attend sections. Sections will be used to discuss problem set and exam solutions as well as supplement lecture material with additional examples. 
+
+### Office hours
+If you have questions about the material or your performance in the course, drop into office hours. 
+
+---
+
+# Course materials and tools
+
+### Recommended textbook
+*Microeconomics: Theory and Applications with Calculus*, by Jeffrey M. Perloff (5th Edition used, but any edition is fine). 
+
+### In-class polling
+I use in-class polling in almost every lecture using iClicker (available at no cost). 
+
+### Canvas and announcements
+All course materials (lecture notes, problem sets, solutions, sample exam questions/solutions) will be distributed via Canvas. Important information will be posted on Canvas and sent to the class list; you are responsible for checking your UCD registered email. 
+
+---
+
+# Grading 
+
+### Exams (Midterm 25%, Final 35%)
+
+All exams are **in person** and **closed book**. The midterm covers all material up to and including the class just before the midterm. The final is comprehensive, with added emphasis on post-midterm material.  Exams must be taken as scheduled except in the case of documented hospitalization or family emergency. Please note that SHCS no longer provides documentation to excuse students from exams for routine illness. If you have an excused absence, remaining requirements will be re-weighted; unexcused absences result in an exam grade of zero. 
+
+### Weekly quizzes (20%)
+
+Each Friday (beginning the first week), you will complete a short (10 minute) 5-question multiple choice Canvas quiz. You must take the quiz by yourself without aid from other students, but may consult your class notes. No make-up quizzes are offered; the lowest quiz score is dropped. 
+
+### Problem sets (20%)
+
+Weekly problem sets are due ten minutes after the beginning of class on the designated day and must be submitted on Canvas (no hard copies). Problem sets are graded using a “check-plus/check/check-minus” completion assessment; sincere effort can receive full credit even with mistakes. Incomplete or late problem sets are accepted for partial credit. The lowest problem set grade is dropped. You are encouraged to work in small groups, but must write your own answers.
+
+---
+
+# Class policies
+
+### Academic honesty
+Any instance of apparent academic dishonesty will be reported to Student Judicial Affairs. Students are expected to adhere to the [UC Davis Code of Academic Conduct](https://ossja.ucdavis.edu/code-academic-conduct). If found to have cheated on an exam, you will receive an "F" in the course. If found to have cheated on an assignment worth more than 2% of the course grade, you will receive one whole letter grade less than your final course score would have indicated. 
+
+### Accessibility
+I am committed to creating a learning environment that is as accessible and inclusive as possible. I make every effort to ensure that course materials, activities, and technologies are accessible to all students. That said, I may not be perfect in my efforts. If you encounter any barriers to access in this course, or if you need course content in an alternative or remediated accessible format—please let me know as soon as possible.  I welcome feedback and will work promptly to address accessibility needs. Students with disabilities who wish to request academic accommodations are encouraged to contact [Student Disability Services](https://sdc.ucdavis.edu/) as early as possible in the semester to begin the accommodations process. Once accommodations are approved, please share your accommodation notification with me so that we can implement them effectively.
+
+### Generative AI
+In this course, AI use is limited in order to preserve the development of independent analytical and quantitative skills. That said, generative AI may be used as a learning tool, while exercising appropriate caution regarding accuracy and preparation for in-class exams. 
+- AI tools MAY be used for clarification of concepts, definitions, high-level review, or the generation of practice problems.
+- AI tools MAY NOT be used to generate solutions to problem sets or quizzes and may not be used during exams. Submitting AI-generated solutions as your own work constitutes academic misconduct.
+
+### Sharing course content
+Course materials are protected by copyright and university policy; students may not reproduce/distribute/display/post/upload materials without express prior written consent. 
+
+### Devices
+Cell phones must be put away during lecture except for polling; tablets laid flat are OK; laptops are OK if used only for course-relevant work. 
+
+### Email policy
+Please include “100B” in the subject line. I will try to answer within 24 hours. Some emails may be answered by directing you to careful perusal of lecture notes or the syllabus. 
+
+---
+
+# Course outline (tentative, subject to revision)
+
+| Week | Main Concepts | Perloff Readings |
+|------|---------------|------------------|
+| Week 1 | Introduction; Monopoly (profit maximization, market power, welfare effects) | 11.1–11.2 |
+| Week 2 | Monopoly (pricing, welfare); Price Discrimination | 11.3–11.5; 12.1–12.3 |
+| Week 3 | Monopsony; Static Game Theory (normal-form games, Nash equilibrium) | 11.7; 13.1 |
+| Week 4 | Cournot Oligopoly; Product Differentiation | 14.1–14.3; 14.5–14.6 |
+| Week 5 | Dynamic Game Theory; Stackelberg Competition | 13.3; 14.4 |
+| Week 6 | Midterm Exam; Externalities (Pigouvian taxation, Coase theorem) | 17.1–17.2 |
+| Week 7 | Externalities (policy design); Public Goods | 17.3–17.4; 17.6 |
+| Week 8 | Choice Under Uncertainty (expected utility, risk aversion, insurance) | 16.1–16.5 |
+| Week 9 | Asymmetric Information (Adverse Selection and Moral Hazard) | 18.1–18.5; 19.1–19.6 |
+| Week 10 | Wrap-up and Final Exam Preparation | — |
