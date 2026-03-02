@@ -41,6 +41,25 @@ format:
     citecolor: blue
     fig-pos: "htbp"
 
+  revealjs:
+    embed-resources: true
+    html-math-method: mathml
+    theme: default
+    slide-number: true
+    hash: true
+    controls: true
+    progress: true
+    center: false
+    transition: slide
+    incremental: false
+    #pdf: true
+    #pdf-export: true
+    #pdf-separate-fragments: false
+    chalkboard: false
+    preview-links: true
+    slide-level: 1
+    css: slidestyle.css
+
 execute:
   echo: false
   warning: false

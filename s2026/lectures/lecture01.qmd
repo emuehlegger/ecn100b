@@ -1,274 +1,309 @@
 ﻿---
-title: "Lecture 01"
+title: "Lecture 1"
+subtitle: Economics 100B - Intermediate Microeconomic Theory
+author: "Prof. Muehlegger"
 format:
   revealjs:
-    slide-number: true
+  pdf:
+  
 ---
 
-## Class 1: Introduction
-ECN 100B – Intermediate Microeconomics  
-Spring 2025  
+# Class 1: Introduction
+ECN 100B - Intermediate Microeconomics
+
+Spring 2025
+
 Prof. Muehlegger
 
-## Announcements
-  1. Sections will begin this week.  
-  2. Office hours will start this week as well. The dates and times are posted as a Canvas discussion item.  
-  3. You can also find the syllabus on Canvas.
 
-## Class Outline
+
+# Announcements
+- Sections will begin this week.
+- Office hours will start this week as well. The dates and times are posted as a Canvas discussion item.
+- You can also find the syllabus on Canvas.
+
+ 
+# Class Outline
 - Introduction and a few course details
 - Review of Profit Maximization and Perfect Competition
 - Questions
 
-## I. Introduction and course details
+ 
+# I. Introduction and course details {.center}
 
-## Introduction
-My contact information:
+ 
+# Introduction
+- My contact information:
   - Office: 1120 SS&H
-  - Office Hours: Thursday, 11 – 1pm, in person
+  - Office Hours: Thursday, 11 - 1pm, in person
   - Email: emuehlegger@ucdavis.edu
   - Twitter: @erichmuehlegger
   - My Other Day Job: Economist studying environmental regulation / energy policy.
 
-## Teaching Team
-  We have four great TAs who’ll be part of the teaching team for the course.
-    - Francisco Pizzi
-    - Jessica Lyu
-    - Maria Pulido
-    - Robert Reaser
-  You can find the office hour schedule on Canvas.  
-  You should feel free to attend any TA office hours.
+ 
+# Teaching Team
+- We have four great TAs who'll be part of the teaching team for the course.
+  - Francisco Pizzi
+  - Jessica Lyu
+  - Maria Pulido
+  - Robert Reaser
+- You can find the office hour schedule on Canvas.
+- You should feel free to attend any TA office hours.
 
-## Course resources
-Lectures are the primary source of material for the course and all exams.
-  - I provide handouts for lectures. I post them prior to class so you can take notes on them if you’d like. You can find them in Canvas -> Files -> Lecture Slides.
-Recommended Textbook
+ 
+# Course resources
+- Lectures are the primary source of material for the course and all exams.
+  - I provide handouts for lectures. I post them prior to class so you can take notes on them if you'd like. You can find them in Canvas -> Files -> Lecture Slides.
+- Recommended Textbook
   - Microeconomics: Theory and Applications with Calculus, by Jeffrey M. Perloff
   - Available through Open Access, any edition is fine.
-  - You can find it under “Bookshelf” on Canvas
+  - You can find it under "Bookshelf" on Canvas
 
-## Classroom engagement and clickers
-This course will use “in-class” polling.
+ 
+# Classroom engagement and clickers {.small-content}
+- This course will use "in-class" polling.
   - It helps keep you engaged in the material
   - It lets you know whether or not you understand the material
-  - It give me real-time feedback on whether I’ve presented the material clearly
+  - It give me real-time feedback on whether I've presented the material clearly
   - It facilitates class discussion
-Clicker questions will not be graded, nor will participation.  
-We will use iClicker which is free for UC Davis students.
-  - 9 – 10:20 (100B – A): https://join.iclicker.com/HTCC
-  - 1:40 – 3:00 (100B – B): https://join.iclicker.com/MZWB
+- Clicker questions will not be graded, nor will participation.
+- We will use iClicker which is free for UC Davis students.
+  - 9 - 10:20 (100B - A) https://join.iclicker.com/HTCC
+  - 1:40 - 3:00 (100B - B) https://join.iclicker.com/MZWB
 
-## Canvas
-I will disseminate material for the course through Canvas  
-This includes:
+ 
+# Canvas
+- I will disseminate material for the course through Canvas
+- This includes:
   - Lecture Handouts
   - Problem Sets and Solutions
   - Questions to previous midterm and final
-Check Canvas often!  
-Set your preferences to receive announcements by email!
+- Check Canvas often!
+- Set your preferences to receive announcements by email!
 
-## Course Grading (details in syllabus)
+ 
+# Course Grading (details in syllabus)
 - Final Exam (35%)
-  - 100B – A: June 10th @ 8am.
-  - 100B – B: June 9th @ 8am.
+  - 100B - A June 10th @ 8am.
+  - 100B - B June 9th @ 8am.
 - Midterm Exam (25%)
   - In class, Tuesday, May 6th.
 - Problem sets (20%)
 - Weekly Quizzes (20%)
 
-## II. Profit maximization (Perloff 8.2)
+ 
+# II. Profit maximization (Perloff 8.2)
 
-## Firms seek to maximize profits
-  - We assume that the firm’s objective is to maximize profits, subject to a variable the firm controls (often quantity).  
+ 
+# Firms seek to maximize profits {.smaller-content}
+- We assume that the firm's objective is to maximize profits, subject to a variable the firm controls (often quantity).
 
-  $\max_q \Pi(q)=TR(q)-TC(q)$  
+$$
+\max_q \ \Pi(q) = TR(q) - TC(q)
+$$
 
-  - Taking the derivative and setting equal to zero.  
+- Taking the derivative and setting equal to zero.
 
-  $\frac{d\Pi(q)}{dq}=\frac{dTR(q)}{dq}-\frac{dTC(q)}{dq}=MR(q)-MC(q)=0$  
+$$
+\frac{d\Pi(q)}{dq} = \frac{dTR(q)}{dq} - \frac{dTC(q)}{dq} = MR(q) - MC(q) = 0
+$$
 
-  - Rearranging, we get the condition for firm profit maximization  
+- Rearranging, we get the condition for firm profit maximization
 
-  $MR(q)=MC(q)$  
+$$
+MR(q) = MC(q)
+$$
 
-  - What is the intuition here?
+- What is the intuition here?
 
-## Graphical depiction of profit maximization
-Profits are maximized at $q^*$, the point where $MR = MC$  
-![FIGURE: line/connector diagram elements; source=pptx; slide=13; bbox=unknown](FIGURE_SLIDE13_1.png)
+ 
+# II. Perfect competition in the short run (Perloff 8.3)
 
-## II. Perfect competition in the short run (Perloff 8.3)
-
-## What are the assumptions of perfect competition?
+ 
+# What are the assumptions of perfect competition?
 - There are many, many firms
 - Firms sell identical products
 - All firms have full information about price and product characteristics
 - There are no transaction costs
-- Entry and exit from the market is free  
-These assumptions have two important implications.
-- Firms are price takers. They can sell as much as they want without affecting the market price. This means that firms face a flat marginal revenue curve $\rightarrow MR=P$.
-- In the long-run, entry and exit lead economic profits to be zero.
+- Entry and exit from the market is free
+- These assumptions have two important implications.
+  - Firms are price takers. They can sell as much as they want without affecting the market price. This means that firms face a flat marginal revenue curve: $MR = P$.
+  - In the long-run, entry and exit lead economic profits to be zero.
 
-## Short-run competitive equilibrium
-The competitive equilibrium is the price and quantity where market supply equals market demand.  
-We can find the competitive equilibrium in three steps:
+ 
+# Short-run competitive equilibrium
+- The competitive equilibrium is the price and quantity where market supply equals market demand.
+- We can find the competitive equilibrium in three steps:
   - Calculate the firm supply curve, how much each firm will produce as a function of price.
   - Sum the firm supply curves horizontally to get the market supply curve, how much all firms will produce as a function of price
   - Equate market supply and market demand.
 
-## We’ll consider a specific example
-In this example, we assume the following:
-  - Market demand is $Q_D=600-50P$
+ 
+# We'll consider a specific example
+- In this example, we assume the following:
+  - Market demand is $Q = 600 - 50P$
   - The market is perfectly competitive
   - There are 100 identical firms in the market
-  - Each firm has identical costs: $TC(q)=9+q^2$  
-Question: What can we learn about firm costs just from looking at the equation for TC?
+  - Each firm has identical costs: $TC(q) = 9 + q^2$
+- Question: What can we learn about firm costs just from looking at the equation for TC?
 
-## Step 1: What is the firm supply curve?
-To find the firm supply curve, maximize profits wrt to $q$.  
-$\max_q \Pi(q)=TR(q)-TC(q)=Pq-(9+q^2)$  
-$\frac{d\Pi}{dq}=P-2q=0 \rightarrow P=2q \rightarrow q^*=\frac{1}{2}P$  
-There are two things to note here.
+ 
+# Step 1: What is the firm supply curve?
+- To find the firm supply curve, maximize profits wrt to $q$.
+
+$$
+\max_q \ \Pi(q) = TR(q) - TC(q) = Pq - (9 + q^2)
+$$
+
+$$
+\frac{d\Pi}{dq} = P - 2q = 0 \rightarrow P = 2q \rightarrow q^* = \frac{P}{2}
+$$
+
+- There are two things to note here.
   - The firm is maximizing profits, because $MR = MC$.
-  - Since the market is perfectly competitive, $MR = P$.  
-MR  
-![FIGURE: line/connector diagram elements; source=pptx; slide=18; bbox=unknown](FIGURE_SLIDE18_1.png)
+  - Since the market is perfectly competitive, $MR = P$.
 
-## Profit maximization graphically
-Using an example with $P=10$, and our firm supply curve, $q^*=\frac{1}{2}P$  
-$\Pi(q)=TR(q)-TC(q)=10q-(9+q^2)$  
+ 
+# Profit maximization graphically
+- Using an example with $P = 10$, and our firm supply curve, $q^* = \frac{P}{2}$.
 
-![FIGURE: line/connector diagram elements; source=pptx; slide=19; bbox=unknown](FIGURE_SLIDE19_1.png)
+$$
+\Pi(q) = TR(q) - TC(q) = 10q - (9 + q^2)
+$$
 
-## Step 2: What is the market supply curve?
-To find the market supply curve, we sum the firm supply curves horizontally.  
-Mathematically, with 100 firms
-  - Firm supply curve: $q^*=\frac{1}{2}P$
-  - Market supply curve: $Q_S=100q^*=50P$  
-Since we graph supply and demand with price on the vertical axis, we calculate the inverse market supply curve by putting price on the left-hand side.
-  - Inverse Market supply curve: $P=\frac{1}{50}Q_S$
+![Profit Maximization graph](images/Lect1_Slide19.png){
+  fig-alt="Two panel graph. Left panel illustrates a flat MR curve and upward sloping MC curve. Right panel illustrates profits, climbing where MR is greater than MC, and falling where MR is greater. The point where MR = MC corresponds to maximum profit."
+  width=70%}
 
-## Step 2: What is the market supply curve?
-Graphically, we horizontally sum the 100 firm supply curves to get the market supply curve.  
+ 
+# Step 2: What is the market supply curve?
+- To find the market supply curve, we sum the firm supply curves horizontally.
+- Mathematically, with 100 firms
+  - Firm supply curve: $q^* = \frac{P}{2}$
+  - Market supply curve: $Q = 100q^* = 50P$
+- Since we graph supply and demand with price on the vertical axis, we calculate the inverse market supply curve by putting price on the left-hand side.
+  - Inverse market supply curve: $P = \frac{Q}{50}$
 
+ 
+# Step 2: What is the market supply curve?
+- Graphically, we horizontally sum the 100 firm supply curves to get the market supply curve.
 
-![FIGURE: line/connector diagram elements; source=pptx; slide=21; bbox=unknown](FIGURE_SLIDE21_1.png)
+!FIGURE: horizontal summation from individual firm supply to market supply; source=pptx; slide=21; bbox=unknown
 
-## Step 3: Find the competitive equilibrium
-We calculate the competitive equilibrium by equating market supply and demand.
-  - Market supply curve: $Q_S=50P$
-  - Market demand curve: $Q_D=600-50P$  
-Setting $Q_S=Q_D$, we have  
-$50P=600-50P \rightarrow P=6,\ Q_S=Q_D=300$
-  - Since the firm supply curve is $q^*=\frac{1}{2}P$, each firm produces 3 units.
-  - Alternatively, since $Q_S=300$, and $N=100$, $q^*=3$  
+ 
+# Step 3: Find the competitive equilibrium
+- We calculate the competitive equilibrium by equating market supply and demand.
+  - Market supply curve: $Q^S = 50P$
+  - Market demand curve: $Q^D = 600 - 50P$
+- Setting $Q^S = Q^D$, we have
 
-## Graphical depiction of the competitive equilibrium in our example
-Since we graph with price on the vertical axis, we always want to have price on the left-hand side.  
-P  
-q  
-P  
-Q  
-Individual Firm  
-Market  
-Inverse supply curve:  
-$P=\frac{1}{50}Q_S$  
-MR  
-$MC=2q$  
-$P=6$  
-$q^*=3$  
-![FIGURE: line/connector diagram elements; source=pptx; slide=23; bbox=unknown](FIGURE_SLIDE23_1.png)
-$Q=300$  
-Inverse demand curve:  
-$P=12-\frac{1}{50}Q_D$  
-Market supply curve:  
-$Q_S=50P$  
-Market demand curve:  
-$Q_D=600-50P$  
-$P=6$
+$$
+50P = 600 - 50P \rightarrow P = 6,\ Q^S = Q^D = 300
+$$
 
-## III. Perfect competition in the long-run (Perloff 8.4)
+- Since the firm supply curve is $q^* = \frac{P}{2}$, each firm produces 3 units.
+- Alternatively, since $Q = 300$, and $N = 100$, $q^* = 3$.
 
-## In our example, do the firms earn economic profits?
-In this example, the competitive equilibrium is $P=6,\ q=3$  
-$\Pi=TR-TC$  
-$=Pq-(9+q^2)=18-9+3^2=0$  
-P  
-q  
-P  
-Q  
-Individual Firm  
-Market  
-MR  
-$P=6$  
-$q^*=3$  
-![FIGURE: line/connector diagram elements; source=pptx; slide=25; bbox=unknown](FIGURE_SLIDE25_1.png)
-$Q=300$  
-D  
-S  
-MC  
-$AC=TC/q$
+ 
+# Graphical depiction of the competitive equilibrium in our example
+- Since we graph with price on the vertical axis, we always want to have price on the left-hand side.
 
-## Economic profits
-In the example above, firms earn zero economic profits.  
-What does this mean?
+!FIGURE: firm and market equilibrium graphs with inverse supply and inverse demand; source=pptx; slide=23; bbox=unknown
+
+ 
+# III. Perfect competition in the long-run (Perloff 8.4)
+
+ 
+# In our example, do the firms earn economic profits?
+- In this example, the competitive equilibrium is $P = 6,\ q = 3$.
+
+$$
+\Pi = TR - TC
+$$
+
+$$
+= Pq - (9 + q^2) = 18 - (9 + 9) = 0
+$$
+
+!FIGURE: firm/market diagram showing zero economic profit at equilibrium; source=pptx; slide=25; bbox=unknown
+
+ 
+# Economic profits
+- In the example above, firms earn zero economic profits.
+- What does this mean?
   - Economic profits include the opportunity cost of capital.
   - If a firm earns zero economic profits, their return in this industry is as good as the return they could receive from an equally risky industry.
   - Consequently, firms do not want to enter nor exit the market.
 
-## Can firms ever earn economic profits?
-In the short-run, firms can change quantities, but can’t enter or exit the market.
+ 
+# Can firms ever earn economic profits?
+- In the short-run, firms can change quantities, but can't enter or exit the market.
   - Thus, they can make short-run economic profits or losses.
-But, in a competitive market in the long-run, firms can freely entry and exit the market.
+- But, in a competitive market in the long-run, firms can freely entry and exit the market.
   - If firms are earning economic profits in the short-run, entry will shift the market supply outwards
   - If firms are bearing economic losses in the short-run, exit will shift the market supply curve inwards
   - Entry and exit will happen until economic profits are zero.
 
-## Example with an inward demand shock
-Consider restaurants at the start of COVID – let’s assume that they earn zero economic profit initially.
-  - COVID shifts demand for restaurants inward $\to$ Price falls
+ 
+# Example with an inward demand shock
+- Consider restaurants at the start of COVID - let's assume that they earn zero economic profit initially.
+  - COVID shifts demand for restaurants inward -> Price falls
   - As equilibrium price falls, firms bear economic loses in short-run.
-  - Firms exit the market, supply shifts inward until profit is zero again.  
+  - Firms exit the market, supply shifts inward until profit is zero again.
 
-![FIGURE: line/connector diagram elements; source=pptx; slide=28; bbox=unknown](FIGURE_SLIDE28_1.png)
+!FIGURE: individual-firm and market diagrams under inward demand shock (D to D', S to S'); source=pptx; slide=28; bbox=unknown
 
-## IV. Perfect competition and welfare
+ 
+# IV. Perfect competition and welfare
 
-## Social Welfare and Perfect Competition
-Consumer surplus is the amount, in dollars, that consumers benefit from the existence of the market.
+ 
+# Social Welfare and Perfect Competition
+- Consumer surplus is the amount, in dollars, that consumers benefit from the existence of the market.
   - Graphically, CS is the area below the inverse demand curve, but above price.
-Producer surplus is the amount, in dollars, that producers benefit from the existence of the market.
+- Producer surplus is the amount, in dollars, that producers benefit from the existence of the market.
   - Graphically, PS is the area above the inverse supply curve, but below price.
 
-## Consumer and Producer Surplus
-In our example from class  
-Consumer surplus  
-$CS=\frac{1}{2}\cdot 300\cdot(12-6)=\$900$  
-Producer surplus  
-$PS=\frac{1}{2}\cdot 300\cdot(6-0)=\$900$  
-Is there any deadweight loss in the diagram?  
-![FIGURE: market surplus diagram; source=pptx; slide=31; bbox=unknown](FIGURE_SLIDE31_1.png)
+ 
+# Consumer and Producer Surplus
+- In our example from class
+- Consumer surplus
 
-## Market Failures and Welfare
-The perfectly competitive market maximizes welfare.
+$$
+CS = \frac{1}{2} \times 300 \times (12 - 6) = \$900
+$$
+
+- Producer surplus
+
+$$
+PS = \frac{1}{2} \times 300 \times (6 - 0) = \$900
+$$
+
+- Is there any deadweight loss in the diagram?
+
+!FIGURE: market graph showing CS and PS areas at Q=300; source=pptx; slide=31; bbox=unknown
+
+ 
+# Market Failures and Welfare
+- The perfectly competitive market maximizes welfare.
   - There is no deadweight loss and in the long-run, firms produce at the minimum of their average cost curves.
-But, there are three common sources of market failure, situations in which an unregulated market may not maximize welfare.
+- But, there are three common sources of market failure, situations in which an unregulated market may not maximize welfare.
   - Firms are not price-takers (e.g., monopoly)
   - Actions create benefits or impose costs on others (e.g., air pollution)
-  - Some parties have information that others don’t (e.g., used car reliability)
-This is the where economics brings real value to policy and is an outline for this course!
+  - Some parties have information that others don't (e.g., used car reliability)
+- This is the where economics brings real value to policy and is an outline for this course!
 
-## Major takeaways
-  - Perfectly competitive firms set $MR = MC$ to maximize profits.  
-  - Price-taking means that $MR = P$. A firm can sell as much as it wants at price $P$ without affecting the market price.  
-  - Horizontally adding the firm supply curves together gives the market supply curve.  
-  - In the short-run, firms in a perfectly competitive market can earn economic profits or bear economic losses. But, in the long-run, free entry and exit will drive economic profits to zero.  
-  - The perfectly competitive market maximizes welfare and doesn’t create deadweight loss.  
-  - But, if firms are not price takers, actions create externalities, or information is asymmetric, deadweight loss might exist in the unregulated market.
+ 
+# Major takeaways
+- Perfectly competitive firms set $MR = MC$ to maximize profits.
+- Price-taking means that $MR = P$. A firm can sell as much as it wants at price $P$ without affecting the market price.
+- Horizontally adding the firm supply curves together gives the market supply curve.
+- In the short-run, firms in a perfectly competitive market can earn economic profits or bear economic losses. But, in the long-run, free entry and exit will drive economic profits to zero.
+- The perfectly competitive market maximizes welfare and doesn't create deadweight loss.
+- But, if firms are not price takers, actions create externalities, or information is asymmetric, deadweight loss might exist in the unregulated market.
 
-## Action Items
-1. Review the syllabus on Canvas  
-2. Register for the course on iClicker Student  
-3. Handouts are available before lectures. You can find them on Canvas.  
-4. The textbook is available under Bookshelf on Canvas. Next class we will cover Perloff 11.1, 11.2.
-
+ 
+# Action Items
+- Review the syllabus on Canvas
+- Register for the course on iClicker Student
+- Handouts are available before lectures. You can find them on Canvas.
+- The textbook is available under Bookshelf on Canvas. Next class we will cover Perloff 11.1, 11.2.

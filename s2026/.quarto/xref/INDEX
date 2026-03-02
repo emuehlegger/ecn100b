@@ -73,5 +73,9 @@
   },
   "landingpage.qmd": {
     "landingpage.html": "c233c5fc"
+  },
+  "lectures/lecture01.qmd": {
+    "lecture01.html": "502d5c91",
+    "lecture01.tex": "4a66f23c"
   }
 }
