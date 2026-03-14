@@ -1,6 +1,8 @@
 # This script sets the background for .png files exported from PowerPoint to be white not transparent.
-# To run: Navigate to folder with images in github... then: py ..\scripts\fix_png_backgrounds.py 
+# To run from repo root: py scripts/fix_png_backgrounds.py <folder>
+# Example: py scripts/fix_png_backgrounds.py lectures/lecture01/images
 
+import argparse
 from pathlib import Path
 from PIL import Image
 
@@ -8,8 +10,11 @@ from PIL import Image
 # SETTINGS
 # =========================================================
 
-# Scan the folder that is currently open / active in VS Code terminal
-ROOT_FOLDER = Path.cwd()
+parser = argparse.ArgumentParser(description="Fix transparent PNG backgrounds to white.")
+parser.add_argument("folder", nargs="?", default=None, help="Folder to scan (default: current directory)")
+args = parser.parse_args()
+
+ROOT_FOLDER = Path(args.folder) if args.folder else Path.cwd()
 
 # Scan subfolders too
 RECURSIVE = True
