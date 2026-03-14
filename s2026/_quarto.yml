@@ -47,6 +47,7 @@ format:
     theme: default
     slide-number: true
     hash: true
+    default-image-extension: svg
     controls: true
     progress: true
     center: false

@@ -171,7 +171,7 @@ $$
 \Pi(q) = TR(q) - TC(q) = 10q - (9 + q^2)
 $$
 
-![Profit Maximization graph](images/Lect1_Slide19.png){
+![Profit Maximization graph](images/Lect1_Slide19.jpg){
   fig-alt="Two panel graph. Left panel illustrates a flat MR curve and upward sloping MC curve. Right panel illustrates profits, climbing where MR is greater than MC, and falling where MR is greater. The point where MR = MC corresponds to maximum profit."
   width=70%}
 
