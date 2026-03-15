@@ -2,7 +2,7 @@
 title: "Economics 100B: Intermediate Microeconomic Theory"
 subtitle: "Imperfect Competition and Market Failure"
 author: "Erich Muehlegger"
-date: "Spring 2026"
+date: "April 2026"
 format:
   html: default
   pdf: default
@@ -166,9 +166,11 @@ If you are found by Judicial Affairs to have cheated on an exam, you will receiv
 
 ---
 
-## Accessibility
-I am committed to creating a learning environment that is as accessible and inclusive as possible. I make every effort to ensure that course materials, activities, and technologies are accessible to all students. That said, I may not be perfect in my efforts. If you encounter any barriers to access in this course, or if you need course content in an alternative or remediated accessible format—please let me know as soon as possible.  I welcome feedback and will work promptly to address accessibility needs. Students with disabilities who wish to request academic accommodations are encouraged to contact [Student Disability Services](https://sdc.ucdavis.edu/) as early as possible in the semester to begin the accommodations process. Once accommodations are approved, please share your accommodation notification with me so that we can implement them effectively.
+## Accessibility and Student Disability Accommodations
 
+I am committed to creating a learning environment that is as accessible and inclusive as possible. I make every effort to ensure that course materials, activities, and technologies are accessible to all students. That said, I may not be perfect in my efforts. If you encounter any barriers to access in this course, or if you need course content in an alternative or remediated accessible format—please let me know as soon as possible.  I welcome feedback and will work promptly to address accessibility needs. 
+
+The University of California, Davis is committed to providing equal access to educational opportunities for all students. Students with disabilities who wish to request academic accommodations are encouraged to contact [Student Disability Services](https://sdc.ucdavis.edu/) as early as possible in the quarter so that accommodations can be implemented in a timely manner. Once accommodations are approved, please share your accommodation notification with me so that we can implement them effectively. If you have any questions about how accommodations will be implemented in this course, please feel free to speak with me during office hours.
 
 ---
 
