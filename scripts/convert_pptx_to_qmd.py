@@ -313,7 +313,9 @@ def omml_to_latex(elem) -> str:
     # ── Math run ──
     if tag == _t(M_NS, "r"):
         t = ch("t")
-        return (t.text or "") if t is not None else ""
+        text = (t.text or "") if t is not None else ""
+        # $ and % are special in LaTeX math; escape them if present literally.
+        return text.replace("$", r"\$").replace("%", r"\%")
 
     # ── Fraction ──
     if tag == _t(M_NS, "f"):
@@ -666,7 +668,10 @@ def _tokens_to_md(tokens: list[_Token]) -> str:
     parts = []
     for tok in tokens:
         if tok.kind == "text":
-            parts.append(tok.content)
+            # Escape $ and % so they are not misread as LaTeX math delimiters
+            # or comment characters in the rendered Markdown/Quarto output.
+            text = tok.content.replace("$", r"\$").replace("%", r"\%")
+            parts.append(text)
         elif tok.kind == "math_inline":
             parts.append(f"${tok.content}$")
         elif tok.kind == "math_display":
@@ -1171,11 +1176,35 @@ def convert(
 
     prs = Presentation(str(pptx_path))
 
+    # ── Detect cover slide (ctrTitle placeholder, ph_type == 3) ──
+    # If the first PPTX slide is a cover/title slide, use its ctrTitle text
+    # as the QMD title and skip it from the body slides.
+    slides = list(prs.slides)
+    first_slide_is_cover = False
+    title_text = basename  # default: filename stem
+
+    if slides:
+        first_slide = slides[0]
+        for tag, elem, ph_type, *_ in iter_all_shape_elems(first_slide):
+            if tag == _t(P_NS, "sp") and ph_type == 3:  # ctrTitle
+                txBody = elem.find(_t(P_NS, "txBody"))
+                if txBody is not None:
+                    texts = []
+                    for p in txBody.findall(_t(A_NS, "p")):
+                        toks = _extract_para_tokens(p)
+                        texts.append(_tokens_to_md(toks))
+                    t = _normalize_title(" ".join(texts))
+                    if t:
+                        title_text = t.title()
+                        first_slide_is_cover = True
+                break
+
     # ── Preamble ──
+    title_safe = title_text.replace('"', '\\"')
     preamble = (
         "---\n"
-        f'title: "{basename}"\n'
-        'subtitle: "Economics 100B - Intermediate Microeconomic Theory"\n'
+        f'title: "{title_safe}"\n'
+        'subtitle: "Economics 100B - Intermediate Microeconomics II"\n'
         'author: "Prof. Muehlegger"\n'
         "format:\n"
         "  revealjs:\n"
@@ -1185,7 +1214,8 @@ def convert(
 
     parts = [preamble]
 
-    for i, slide in enumerate(prs.slides, start=1):
+    start_idx = 1 if first_slide_is_cover else 0
+    for i, slide in enumerate(slides[start_idx:], start=start_idx + 1):
         slide_text = render_slide(
             slide, i, lect_num, images_dir, images_rel, pdf_pages
         )
