@@ -1,4 +1,4 @@
----
+﻿---
 title: "Class 1: Introduction"
 subtitle: "Economics 100B - Intermediate Microeconomics II"
 author: "Prof. Muehlegger"
@@ -47,7 +47,7 @@ format:
 - This course will use “in-class” polling.
   1. It helps keep you engaged in the material
   2. It lets you know whether or not you understand the material
-  3. It give me real-time feedback on whether I’ve presented the material clearly
+  3. It gives me real-time feedback on whether I’ve presented the material clearly
   4. It facilitates class discussion
 - Clicker questions will not be graded, nor will participation.
 - We will use iClicker which is free for UC Davis students.
@@ -57,7 +57,7 @@ format:
 - This includes:
   - Lecture Handouts
   - Problem Sets and Solutions
-  - Questions to previous midterm and final
+  - Questions from previous midterms and finals
 - Check Canvas often!
 - Set your preferences to receive announcements by email!
 
@@ -73,7 +73,7 @@ format:
 - We assume that the firm’s objective is to maximize profits, subject to a variable the firm controls (often quantity).
 
 $$
-\max_{q} \Pi\left(q\right)=TR\left(q\right)-TC(q)
+\max_{q} \Pi\left(q\right)=TR\left(q\right)-TC(q)
 $$
 
 - Taking the derivative and setting equal to zero.
@@ -103,7 +103,7 @@ $$
 1. Firms are price takers.  They can sell as much as they want without affecting the market price. 
     - This means that firms face a flat marginal revenue curve $\rightarrow MR=P$. <br><br>
 2. Free entry and exit will occur if there are economic profits or losses.
-    - In the long-run, economic profits to be zero.
+    - In the long run, economic profits are driven to zero.
 
 # Short-run competitive equilibrium {.medium-content}
 - The competitive equilibrium is the price and quantity where market supply equals market demand.
@@ -114,7 +114,7 @@ $$
 
 # We’ll consider a specific example {.medium-content}
 - In this example, we assume the following:
-  - Market demand is $Q_{D}=600 -50P$
+  - Market demand is $Q_{D}=600 -50P$
   - The market is perfectly competitive
   - There are 100 identical firms in the market
   - Each firm has identical costs: $TC(q) = 9 + q^2$ <br><br>
@@ -125,12 +125,12 @@ $$
 <br>
 
 $$
-\max_{q} \Pi\left(q\right)=TR\left(q\right)-TC\left(q\right)=P*q -\left(9+q^{2}\right)
+\max_{q} \Pi\left(q\right)=TR\left(q\right)-TC\left(q\right)=P*q -\left(9+q^{2}\right)
 $$
 <br>
 
 $$
-\frac{d\Pi}{dq}=P -2q=0\rightarrow P=2q\rightarrow q^{*}=\frac{1}{2}P
+\frac{d\Pi}{dq}=P -2q=0\rightarrow P=2q\rightarrow q^{*}=\frac{1}{2}P
 $$
 <br>
 
@@ -142,7 +142,7 @@ $$
 - Using an example with P = 10, and our firm supply curve, $q^{*}=\frac{1}{2}P$
 
 $$
-\Pi\left(q\right)=TR\left(q\right)-TC\left(q\right)=10*q -\left(9+q^{2}\right)
+\Pi\left(q\right)=TR\left(q\right)-TC\left(q\right)=10*q -\left(9+q^{2}\right)
 $$
 
 
@@ -165,7 +165,7 @@ $$
 # Step 3: Find the competitive equilibrium {.medium-content}
 - We calculate the competitive equilibrium by equating market supply and demand.
   - Market supply curve:   	$Q_{S}=50P$
-  - Market demand curve:	$Q_{D}=600 -50P$
+  - Market demand curve:	$Q_{D}=600 -50P$
 - Setting $Q_{S}=Q_{D}$, we have:<br><br><br>
 - Each firm, consequently produces:
 
@@ -178,9 +178,9 @@ $$
 # III. Perfect competition in the long-run (Perloff 8.4) {.center .medium-content}
 
 # In our example, do the firms earn economic profits? {.small-content}
-- Each firm produced $q=3$ sold at $P = 6$.
+- Each firm produced $q=3$ and sold at $P = 6$.
 
-$\Pi   =P*q -\left(9+q^{2}\right)=18-\left(9+3^{2}\right)=0$
+$\Pi   =P*q -\left(9+q^{2}\right)=18-\left(9+3^{2}\right)=0$
 
 
 ![](./Images/Lect1_Slide25.svg){fig-alt="The figure shows two graphs side by side: the left graph is labeled 'Individual Firm' with price (P) on the vertical axis and quantity (q) on the horizontal axis, and the right graph is labeled 'Market' with price (P) on the vertical axis and quantity (Q) on the horizontal axis. In the individual firm graph, the marginal cost (MC) curve intersects the average cost (AC) curve and the marginal revenue (MR) line at the price level P=6 and quantity q=3, indicating the firm's equilibrium output. The market graph shows the supply (S) and demand (D) curves intersecting at price P=6 and total quantity Q=300, representing the market equilibrium. This illustrates that the firm produces 3 units at a price of 6, and since price equals average cost, the firm earns zero economic profit in this equilibrium."}
@@ -194,16 +194,16 @@ $\Pi   =P*q -\left(9+q^{2}\right)=18-\left(9+3^{2}\right)=0$
   - Consequently, firms do not want to enter nor exit the market.
 
 # Can firms ever earn economic profits? {.small-content}
-- In the short-run, firms can change quantities, but can’t enter or exit the market.
+- In the short run, firms can change quantities, but can't enter or exit the market.
   - Thus, they can make short-run economic profits or losses. <br><br>
-- But, in a competitive market in the long-run, firms can freely entry and exit the market.
-  - Firms will entry if the are economic profits and exit if there are economic losses.
+- But, in a competitive market in the long run, firms can freely enter and exit the market.
+  - Firms will enter if there are economic profits and exit if there are economic losses.
   - Entry (exit) will shift the supply curve out (in) until profits are zero.
 
 # Example with an inward demand shock {.verysmall-content}
 - Consider restaurants at the start of COVID, earning zero profits.
   1. COVID shifts demand inward.
-  2. Price falls, firms bear economic losses in short-run.
+  2. Price falls, firms bear economic losses in the short run.
   3. Firms exit, supply shifts inward until economic profits are zero.
 
 ![](./Images/Lect1_Slide28.svg){fig-alt="The figure is divided into two panels labeled 'Individual Firm' and 'Market.' The individual firm panel shows price (P) on the vertical axis and quantity (q) on the horizontal axis, with curves for marginal cost (MC), average cost (AC), and marginal revenue (MR). The equilibrium price is marked at P=6 and quantity at q*=3 where MC intersects MR and AC. The market panel shows price (P) on the vertical axis and total quantity (Q) on the horizontal axis, with supply (S) and demand (D) curves intersecting at a market equilibrium price of 6 and quantity Q=300. This illustrates a zero-profit equilibrium for restaurants before an inward demand shock reduces demand and output."}
@@ -238,7 +238,7 @@ $\Pi   =P*q -\left(9+q^{2}\right)=18-\left(9+3^{2}\right)=0$
   1. Firms are not price-takers (e.g., monopoly)
   2. Actions create benefits or impose costs on others (e.g., air pollution)
   3. Some parties have information that others don’t (e.g., used car reliability)
-- This is the where economics brings real value to policy and is an outline for this course!
+- This is where economics brings real value to policy and outlines this course!
 
 # Major takeaways {.verysmall-content}
 - Perfectly competitive firms set MR = MC to maximize profits.
@@ -253,3 +253,4 @@ $\Pi   =P*q -\left(9+q^{2}\right)=18-\left(9+3^{2}\right)=0$
 - Register for the course on iClicker Student
 - Handouts are available before lectures.  You can find them on Canvas.
 - The textbook is available under Bookshelf on Canvas. Next class we will cover Perloff 11.1, 11.2.
+
