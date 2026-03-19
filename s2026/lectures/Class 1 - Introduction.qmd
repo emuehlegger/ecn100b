@@ -1,0 +1,251 @@
+---
+title: "Class 1: Introduction"
+subtitle: "Economics 100B - Intermediate Microeconomics II"
+author: "Prof. Muehlegger"
+format:
+  revealjs:
+    slide-level: 1
+---
+
+# Announcements {.medium-content}
+- Sections will begin this week.
+- Office hours will start this week as well.  The dates and times are posted as a Canvas discussion item.
+- You can also find the syllabus on Canvas.
+
+# Class Outline {.medium-content}
+1. Introduction and a few course details
+2. Review of Profit Maximization and Perfect Competition
+3. Questions
+
+# I. Introduction and course details {.center .medium-content}
+
+# Introduction {.medium-content}
+- My contact information:
+  - Office: 1120 SS&H
+  - Office Hours: 	Thursday, 11 – 1pm, in person
+  - Email: emuehlegger@ucdavis.edu
+  - Twitter: @erichmuehlegger
+  - My Other Day Job: Economist studying environmental regulation / energy policy.
+
+# Teaching Team {.medium-content}
+- We have four great TAs who’ll be part of the teaching team for the course.
+  - Francisco Pizzi
+  - Jessica Lyu
+  - Maria Pulido
+  - Robert Reaser
+- You can find the office hour schedule on Canvas.
+- You should feel free to attend any TA office hours.
+
+# Course resources {.medium-content}
+- Lectures are the primary source of material for the course and all exams.
+  - I provide handouts for lectures.  I post them prior to class so you can take notes on them if you’d like.  You can find them in Canvas  Files  Lecture Slides.
+- Recommended Textbook
+  - Microeconomics: Theory and Applications with Calculus, by Jeffrey M. Perloff
+  - Available through Open Access, any edition is fine.
+  - You can find it under “Bookshelf” on Canvas
+
+# Classroom engagement and clickers {.medium-content}
+- This course will use “in-class” polling.
+  1. It helps keep you engaged in the material
+  2. It lets you know whether or not you understand the material
+  3. It give me real-time feedback on whether I’ve presented the material clearly
+  4. It facilitates class discussion
+- Clicker questions will not be graded, nor will participation.
+- We will use iClicker which is free for UC Davis students.
+
+# Canvas {.medium-content}
+- I will disseminate material for the course through Canvas
+- This includes:
+  - Lecture Handouts
+  - Problem Sets and Solutions
+  - Questions to previous midterm and final
+- Check Canvas often!
+- Set your preferences to receive announcements by email!
+
+# Course Grading (details in syllabus) {.medium-content}
+1. Final Exam (35\%)
+2. Midterm Exam (25\%)
+3. Problem sets (20\%)
+4. Weekly Quizzes (20\%)
+
+# II. Profit maximization (Perloff 8.2) {.center .medium-content}
+
+# Firms seek to maximize profits {.medium-content}
+- We assume that the firm’s objective is to maximize profits, subject to a variable the firm controls (often quantity).
+
+$$
+\max_{q} \Pi\left(q\right)=TR\left(q\right)-TC(q)
+$$
+
+- Taking the derivative and setting equal to zero.
+
+$$
+\frac{d\Pi\left(q\right)}{dq}=\frac{dTR\left(q\right)}{dq}-\frac{dTC\left(q\right)}{dq}=MR\left(q\right)-MC\left(q\right)=0
+$$
+
+- Rearranging, we get the condition for firm profit maximization
+
+$$
+MR\left(q\right)=MC\left(q\right)
+$$
+
+- What is the intuition here?
+
+# II. Perfect competition in the short run (Perloff 8.3) {.center .medium-content}
+
+# What are the assumptions of perfect competition? {.medium-content}
+1. There are many, many firms
+2. Firms sell identical products
+3. All firms have full information about price and product characteristics
+4. There are no transaction costs
+5. Entry and exit from the market is free
+- These assumptions have two important implications.
+6. Firms are price takers.  They can sell as much as they want without affecting the market price.  This means that firms face a flat marginal revenue curve $\rightarrow MR=P$.
+7. In the long-run, entry and exit lead economic profits to be zero.
+
+# These assumptions have two important implications. {.medium-content}
+1. Firms are price takers.  They can sell as much as they want without affecting the market price.
+    - This means that firms face a flat marginal revenue curve $\rightarrow MR=P$.
+2. Free entry and exit will occur if there are economic profits or losses.
+  - In the long-run, economic profits to be zero.
+
+# Short-run competitive equilibrium {.medium-content}
+- The competitive equilibrium is the price and quantity where market supply equals market demand.
+- We can find the competitive equilibrium in three steps:
+  1. Calculate the firm supply curve, how much each firm will produce as a function of price.
+  2. Sum the firm supply curves horizontally to get the market supply curve, how much all firms will produce as a function of price
+  3. Equate market supply and market demand.
+
+# We’ll consider a specific example {.medium-content}
+- In this example, we assume the following:
+  - Market demand is $Q_{D}=600 -50P$
+  - The market is perfectly competitive
+  - There are 100 identical firms in the market
+  - Each firm has identical costs: TC(q) = 9 + q2
+- Question: What can we learn about firm costs just from looking at the equation for TC?
+
+# Step 1: What is the firm supply curve? {.medium-content}
+- To find the firm supply curve, maximize profits wrt to q.
+
+$$
+\max_{q} \Pi\left(q\right)=TR\left(q\right)-TC\left(q\right)=P*q -\left(9+q^{2}\right)
+$$
+
+
+$$
+\frac{d\Pi}{dq}=P -2q=0\rightarrow P=2q\rightarrow q^{*}=\frac{1}{2}P
+$$
+
+- There are two things to note here.
+  1. The firm is maximizing profits, because MR = MC.
+  2. Since the market is perfectly competitive, MR = P.
+
+# Profit maximization graphically {.medium-content}
+- Using an example with P = 10, and our firm supply curve, $q^{*}=\frac{1}{2}P$
+
+$$
+\Pi\left(q\right)=TR\left(q\right)-TC\left(q\right)=10*q -\left(9+q^{2}\right)
+$$
+
+
+![](./Images/Lect1_Slide19.svg){fig-alt="The left graph shows price (P) on the vertical axis and quantity (q) on the horizontal axis, with two lines labeled MC = 2q and MR = P, intersecting at q = 5 and P = 10. The right graph plots profit against quantity, with a red curve peaking at q* = 5, where profit reaches approximately 16. This figure illustrates profit maximization where marginal cost equals marginal revenue, resulting in the optimal output quantity q* of 5 units and maximum profit. The graphs highlight that producing beyond or below q* reduces profit."}
+
+
+# Step 2: What is the market supply curve? {.medium-content}
+- To find the market supply curve, we sum the 100 firm supply curves horizontally.
+  - Firm supply curve: 			 $q^{*}=\frac{1}{2}P$
+  - Market supply curve:   	${Q_{s}=100q}^{*}=50P$
+- Since we graph supply and demand with price on the vertical axis, we calculate the inverse market supply curve by putting price on the left-hand side.
+  - Inverse Market supply curve:   	$P=\frac{1}{50}Q_{s}$
+
+# Step 2: What is the market supply curve? {.medium-content}
+- Graphically, we horizontally sum the 100 firm supply curves to get the market supply curve.
+
+![](./Images/Lect1_Slide21.svg){fig-alt="The figure shows two graphs side by side. The left graph, labeled 'Individual Firm,' has price (P) on the vertical axis and quantity (q) on the horizontal axis, with three upward-sloping lines representing quantities q1, q1+q2, and q1+q2+q3 at a price of 10. The right graph, labeled 'Overall Market,' also has price (P) on the vertical axis and quantity (Q) on the horizontal axis, with a single upward-sloping market supply curve (S) intersecting price 10 at quantity 500. This illustrates how the market supply curve is derived by horizontally summing individual firm supply curves, showing total quantity supplied by all firms at each price level."}
+
+
+# Step 3: Find the competitive equilibrium {.medium-content}
+- We calculate the competitive equilibrium by equating market supply and demand.
+  - Market supply curve:   	$Q_{S}=50P$
+  - $Market demand curve:$	$Q_{D}=600 -50P$
+- Setting $Q_{S}=Q_{D}$, we have:
+- Each firm, consequently produces:
+
+# Graphical depiction of the competitive equilibrium in our example {.medium-content}
+- Since we graph with price on the vertical axis, we always want to have price on the left-hand side.
+
+![](./Images/Lect1_Slide23.svg){fig-alt="The figure shows two graphs side by side labeled 'Individual Firm' and 'Market.' The individual firm graph has price (P) on the vertical axis and quantity (q) on the horizontal axis, with a marginal cost curve labeled MC = 2q and a horizontal marginal revenue line at price P = 6, intersecting at quantity q* = 3. The market graph has price (P) on the vertical axis and quantity (Q) on the horizontal axis, with upward-sloping supply and downward-sloping demand curves intersecting at the equilibrium price P = 6 and quantity Q = 300. The supply and demand functions and their inverses are also displayed. This illustrates the competitive equilibrium where the individual firm's output and market quantity align with the equilibrium price."}
+
+
+# III. Perfect competition in the long-run (Perloff 8.4) {.center .medium-content}
+
+# In our example, do the firms earn economic profits? {.medium-content}
+- In our example, each firm produced$q=3$ sold at P = 6.
+
+$\Pi   =P*q -\left(9+q^{2}\right)=18-\left(9+3^{2}\right)=0$
+
+
+![](./Images/Lect1_Slide25.svg){fig-alt="The figure shows two graphs side by side: the left graph is labeled 'Individual Firm' with price (P) on the vertical axis and quantity (q) on the horizontal axis, and the right graph is labeled 'Market' with price (P) on the vertical axis and quantity (Q) on the horizontal axis. In the individual firm graph, the marginal cost (MC) curve intersects the average cost (AC) curve and the marginal revenue (MR) line at the price level P=6 and quantity q=3, indicating the firm's equilibrium output. The market graph shows the supply (S) and demand (D) curves intersecting at price P=6 and total quantity Q=300, representing the market equilibrium. This illustrates that the firm produces 3 units at a price of 6, and since price equals average cost, the firm earns zero economic profit in this equilibrium."}
+
+
+# Economic profits {.medium-content}
+- In the example above, firms earn zero economic profits.
+- What does this mean?
+  - Economic profits include the opportunity cost of capital.
+  - If a firm earns zero economic profits, their return in this industry is as good as the return they could receive from an equally risky industry.
+  - Consequently, firms do not want to enter nor exit the market.
+
+# Can firms ever earn economic profits? {.medium-content}
+- In the short-run, firms can change quantities, but can’t enter or exit the market.
+  - Thus, they can make short-run economic profits or losses.
+- But, in a competitive market in the long-run, firms can freely entry and exit the market.
+  - Firms will entry if the are economic profits and exit if there are economic losses.
+  - Entry (exit) will shift the supply curve out (in) until profits are zero.
+
+# Example with an inward demand shock {.medium-content}
+- Consider restaurants at the start of COVID, earning zero profits.
+  1. COVID shifts demand inward.
+  2. Price falls, firms bear economic losses in short-run.
+  3. Firms exit, supply shifts inward until economic profits are zero.
+
+![](./Images/Lect1_Slide28.svg){fig-alt="The figure is divided into two panels labeled 'Individual Firm' and 'Market.' The individual firm panel shows price (P) on the vertical axis and quantity (q) on the horizontal axis, with curves for marginal cost (MC), average cost (AC), and marginal revenue (MR). The equilibrium price is marked at P=6 and quantity at q*=3 where MC intersects MR and AC. The market panel shows price (P) on the vertical axis and total quantity (Q) on the horizontal axis, with supply (S) and demand (D) curves intersecting at a market equilibrium price of 6 and quantity Q=300. This illustrates a zero-profit equilibrium for restaurants before an inward demand shock reduces demand and output."}
+
+
+# IV. Perfect competition and welfare {.center .medium-content}
+
+# Social Welfare and Perfect Competition {.medium-content}
+- Consumer surplus is the amount, in dollars, that consumers benefit from the existence of the market.
+  - Graphically, CS is the area below the inverse demand curve, but above price.
+- Producer surplus is the amount, in dollars, that producers benefit from the existence of the market.
+  - Graphically, PS is the area above the inverse supply curve, but below price.
+
+# Consumer and Producer Surplus {.medium-content}
+- In our example from class
+- Consumer surplus
+- Producer surplus
+- Is there any deadweight loss in the diagram?
+
+![](./Images/Lect1_Slide31.svg){fig-alt="The graph shows a supply curve labeled S and a demand curve labeled D intersecting at a point where the price is 6 and the quantity is 300. The vertical axis represents price (P) ranging from 0 to 12, and the horizontal axis represents quantity (Q). Dashed lines extend from the equilibrium point to the price and quantity axes, highlighting the equilibrium price of 6 and quantity of 300. This intersection represents the market equilibrium where consumer and producer surplus are maximized, and there is no deadweight loss."}
+
+
+# Market Failures and Welfare {.medium-content}
+- The perfectly competitive market maximizes welfare.
+- But, there are three common sources of market failure, times when the unregulated market may not maximize welfare.
+  1. Firms are not price-takers (e.g., monopoly)
+  2. Actions create benefits or impose costs on others (e.g., air pollution)
+  3. Some parties have information that others don’t (e.g., used car reliability)
+- This is the where economics brings real value to policy and is an outline for this course!
+
+# Major takeaways {.medium-content}
+- Perfectly competitive firms set MR = MC to maximize profits.
+- Price-taking means that MR = P.  A firm can sell as much as it wants at price P without affecting the market price.
+- Horizontally adding the firm supply curves together gives the market supply curve.
+- In the short-run, firms in a perfectly competitive market can earn economic profits or bear economic losses.  But, in the long-run, free entry and exit will drive economic profits to zero.
+- The perfectly competitive market maximizes welfare and doesn’t create deadweight loss.
+- But, if firms are not price takers, actions create externalities, or information is asymmetric, deadweight loss might exist in the unregulated market.
+
+# Action Items {.medium-content}
+- Review the syllabus on Canvas
+- Register for the course on iClicker Student
+- Handouts are available before lectures.  You can find them on Canvas.
+- The textbook is available under Bookshelf on Canvas. Next class we will cover Perloff 11.1, 11.2.

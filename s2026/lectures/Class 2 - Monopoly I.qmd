@@ -1,0 +1,284 @@
+---
+title: "Class 2: Monopoly"
+subtitle: "Economics 100B - Intermediate Microeconomics II"
+author: "Prof. Muehlegger"
+format:
+  revealjs:
+    slide-level: 1
+---
+
+# Announcements {.medium-content}
+- Office hours start this week.  Please see the discussion item on Canvas for times / locations.
+- Problem Set 1 is posted.  It is due next Tuesday.
+- The first weekly quiz will happen tomorrow.
+  - Five multiple choice questions, 10 minutes.
+  - Anytime between 12am – 11:59pm.
+  - It is open-book, open-note, but not “open-friend” nor “open-AI”
+
+# Class Outline {.medium-content}
+1. What is a monopoly?
+2. Monopoly profit maximization
+3. Welfare under Monopoly
+
+# Recap from last class {.medium-content}
+- The perfectly competitive market maximizes welfare.
+  - There is no deadweight loss and in the long-run, firms produce at the minimum of their average cost curves.
+- But, if the market is not perfectly competitive, the market might not maximize welfare.
+- We begin to explore the first of these today by discussing monopoly.
+
+# I. What is a monopoly? {.center .medium-content}
+
+# What is a monopoly? {.medium-content}
+- A monopoly is a sole supplier of a good that has not close substitute.
+- There many historical (and contemporary) examples of monopolies.
+  - Historical: Hudson Bay Company, British East India Company, US Steel, Aluminum Company of America (ALCOA)
+  - Modern: Many utilities (e.g., PGE), firms with patents (e.g., Pfizer)
+
+# What are the assumptions of monopoly? {.medium-content}
+1. There is a single firm.
+2. The firm sets a single price for all customers.
+3. Barriers to entry exist
+- These assumptions lead monopolies to behave differently than perfectly competitive markets.
+4. A monopoly is not a price-taker.  The production decision of a monopoly affects the market price.
+5. If barriers to entry exist, a monopoly can earn economic profits in the long-run.
+
+# Are monopolies good or bad from a welfare perspective? {.medium-content}
+A. Good
+B. Bad
+C. It depends
+D. I don’t know
+  - 100B – A: https://join.iclicker.com/HTCC
+  - 100B – B: https://join.iclicker.com/MZWB
+
+# How can a monopoly arise? (Perloff 11.4) {.medium-content}
+1. Cost advantage: A single firm can serve the market at lower cost
+2. Government creation: The government creates the monopoly with a patent (e.g., pharmaceuticals) or a license (e.g. liquor stores)
+3. Network Externalities: The value of the good / service depends on how many consumers use the good (e.g., Google Search)
+4. Anticompetitive conduct that prevents competitors from entering
+5. Mergers
+6. Firm coordination / Cartels
+
+::: {.notes}
+- Note here that 1 – 3 are reasons why we might like a monopoly.  4 – 6 are reasons why we might not like a monopoly.
+:::
+
+# II. Monopoly profit maximization (Perloff 11.1) {.center .medium-content}
+
+# Marginal revenue for perfect competition {.medium-content}
+- Recall from last class, we learned about how perfectly competitive firms maximize profits
+
+$$
+\max_{q} \Pi\left(q\right)=TR\left(q\right)-TC(q)
+$$
+
+- Taking the derivative of profits with respect to quantity, we get the condition for firm profit maximization
+
+$$
+MR\left(q\right)=MC\left(q\right)
+$$
+
+- Since perfectly competitive firms are price-takers, price doesn’t depend the quantity that an individual firm sells.
+
+$$
+TR\left(q\right)=P*q\rightarrow MR\left(q\right)=P
+$$
+
+- Every unit that the firm sells, it can sell at the market price.
+
+# Marginal revenue for perfect competition {.medium-content}
+- Every unit that a perfectly competitive firm sells, it can sell at the market price   MR curve is horizontal.
+
+![](./Images/Lect2_Slide12.svg){fig-alt="The graph shows a horizontal demand curve labeled 'Demand curve for PC firm' at a constant price level P on the vertical axis, with quantity q on the horizontal axis. A shaded rectangle represents total revenue TR(q), formed by the price P and quantity q. This illustrates that for a perfectly competitive firm, the marginal revenue is constant and equal to the market price, meaning the firm can sell any quantity at this fixed price. The key point is that the marginal revenue curve is horizontal, reflecting perfect competition conditions."}
+
+
+# So what is different about a monopoly? {.medium-content}
+- A monopoly isn’t a price taker!
+- Pprice it can charge is a function of quantity:
+
+$$
+TR\left(q\right)=P(q)*q
+$$
+
+- This changes the expression for marginal revenue.
+
+$$
+MR\left(q\right)=\frac{dTR\left(q\right)}{dq}={P\left(q\right)+P}^{'}\left(q\right)*q
+$$
+
+
+# Marginal revenue for monopoly {.medium-content}
+- Higher production affects monopoly revenue in two ways.
+
+![](./Images/Lect2_Slide14.svg){fig-alt="The figure is divided into two panels comparing a perfectly competitive firm and a monopoly. Both panels have quantity (q) on the horizontal axis and price (p or P) on the vertical axis. The left panel shows a horizontal demand curve at price p1 for the perfectly competitive firm, with total revenue TR(q) represented as a shaded rectangle up to quantity q, and a narrow green vertical strip indicating the marginal revenue from increasing quantity by one unit. The right panel shows a downward-sloping demand curve labeled D for the monopoly, with total revenue TR(q) as a shaded rectangle up to quantity q and price p1."}
+
+
+::: {.notes}
+- Revenues are higher because the firm sells more units. (Region A)
+- But, the firm has to cut the price to sell more, so it loses revenue on units that would have sold at the higher price (Region B)
+- Region A (green): P
+- Region B (red): P’(q)*q
+:::
+
+# A numerical example clearly shows the two regions A and B. {.medium-content}
+
+| Quantity | Price | TR | MR | Region A: P(q) | Region B: P’(q)*q |
+| --- | --- | --- | --- | --- | --- |
+| 10 | 70 | 700 |  |  |  |
+| 11 | 69 | 759 |  |  |  |
+| 12 | 68 | 816 |  |  |  |
+| 13 | 67 | 871 |  |  |  |
+| 14 | 66 | 924 |  |  |  |
+| 15 | 65 | 975 |  |  |  |
+
+- Let’s consider an example where the market demand curve is given by $P=80 -q$.
+  - Region A: New revenue from selling one more unit.
+  - Region B: Lost revenue from having to lower price on other units.
+
+# Profit maximization for monopoly {.medium-content}
+- Does a monopoly maximize profits like a perfectly competitive firm?
+- Yes! Like a perfectly competitive firm, a monopoly maximizes profit at the point where MR = MC.
+
+$$
+\max_{q} \Pi\left(q\right)=TR\left(q\right)-TC\left(q\right)\rightarrow MR\left(q\right)=MC\left(q\right)
+$$
+
+
+# We can find the profit maximizing decision for the monopolist two ways. {.medium-content}
+- We can find the profit maximizing output in three steps:
+  - Step 1: Write the expressions for TR (and TC).
+  - Step 2: Calculate MR (and MC)
+  - Step 3: Set MR = MC to maximize profit.
+- Alternatively, write down the formula for profit and maximize with respect to q.
+
+# Solving the monopoly problem {.medium-content}
+- The inverse market demand curve is $P=80 -q$.
+- A monopoly’s costs are $TC=q^{2}+400.$
+- Step 1: Write the expression for TR.
+- Step 2: Calculate MR and MC.
+- Step 3: Set MR = MC to maximize profit.
+
+::: {.notes}
+- MR = 80-2Q, MC = 2Q,  Q = 20
+:::
+
+# What value of q will maximize the monopolist’s profits? {.medium-content}
+A. Q = 80
+B. Q = 60
+C. Q = 40
+D. Q = 20
+E. Something else / I don’t know.
+  - 9:00 – 10:20 (100B – A): https://join.iclicker.com/HTCC
+  - 1:40 – 3:00 (100B – B): https://join.iclicker.com/MZWB
+
+# Solving the monopoly problem {.medium-content}
+- Alternatively, take the first derivative of the profit function and set it equal to zero.
+- In this case, the monopolist’s profit function is given by:
+
+$$
+\max_{q} \Pi\left(q\right)=TR\left(q\right)-TC\left(q\right)=\left(80-q\right)*q-(q^{2}+400)
+$$
+
+- Taking the derivative and setting it equal to zero:
+
+# What price will the monopolist set and does the monopoly earn profits? {.medium-content}
+- To find the profit-maximizing price, we plugging $q^{*}$ into the inverse demand curve.
+  - This is the highest price the monopolist could set and still sell q* units of the good.
+- We can also solve for firm profits.
+
+$$
+\Pi\left(q\right)=TR\left(q\right)-TC\left(q\right)=\left(80-q\right)*q-\left(q^{2}+400\right)
+$$
+
+
+::: {.notes}
+- P = 80 – q implied P = 60.
+- TR = 1200, TC = 800, Profit = 400.
+:::
+
+# Graphical depiction of a monopoly {.medium-content}
+- Inverse demand curve:
+
+$$
+P=80 -q
+$$
+
+- Marginal Revenue:
+
+$$
+TR=80q -q^{2}
+$$
+
+- Marginal Cost:
+
+$$
+TC=q^{2}+400
+$$
+
+- Profit maximization at:
+
+![](./Images/Lect2_Slide22.svg){fig-alt="The graph shows price (P) on the vertical axis and quantity (Q) on the horizontal axis with three curves labeled Demand, Marginal Revenue, and Marginal Cost. The Demand curve slopes downward, the Marginal Revenue curve lies below the Demand curve, and the Marginal Cost curve is upward sloping. The profit-maximizing quantity is where Marginal Revenue equals Marginal Cost, marked as Qm, and the corresponding price on the Demand curve is Pm. This illustrates how a monopoly sets a higher price and lower quantity compared to a competitive market."}
+
+
+# One slick trick to keep in mind… {.medium-content}
+- In the previous example, you might have noticed that the MR curve:
+  1. Has the same intercept as the inverse demand curve,
+  2. Has twice the slope of the inverse demand curve.
+- This is true for any linear inverse demand curve.
+  - For instance, if demand is: P = 548 – 11Q  MR = 548 – 22Q
+
+::: {.notes}
+- Why does this work, you ask? P = a – bQ. TR = aQ-bQ*Q, MR = a – 2bQ
+:::
+
+# III. Monopoly and welfare (Perloff 11.2) {.center .medium-content}
+
+# Will consumer and producer surplus be different under a monopoly than perfect competition? {.medium-content}
+A. No.  They will be the same.
+B. Yes.  CS will be higher and PS will be lower.
+C. Yes. CS will be lower and PS will be higher.
+D. Yes. Both CS and PS will be lower.
+E. I don’t know.
+
+# Will welfare be different under a monopoly than perfect competition? {.medium-content}
+A. Yes.  It will be higher.
+B. No. It will be the same.
+C. Yes. It will be lower.
+D. It depends.
+E. I don’t know.
+
+# Let’s revisit the example from last class. {.medium-content}
+- In the last class, we had a perfectly competitive market with identical supply and demand
+- $CS=\$900, PS=\$900$
+
+![](./Images/Lect2_Slide27.svg){fig-alt="The graph shows a market with price (P) on the vertical axis and quantity (Q) on the horizontal axis. Two lines intersect at the equilibrium point where Q equals 300 and P equals 6, representing the inverse supply curve P = (1/50)Qs and the inverse demand curve P = 12 - (1/50)Qd. The area above the price and below the demand curve is shaded green and labeled CS for consumer surplus, while the area below the price and above the supply curve is shaded red and labeled PS for producer surplus. This illustrates the division of total surplus in a perfectly competitive market at equilibrium."}
+
+
+# What would the diagram look like for the monopoly? {.medium-content}
+
+$$
+
+$$
+
+
+![](./Images/Lect2_Slide28.svg){fig-alt="The graph shows price (P) on the vertical axis and quantity (Q) on the horizontal axis with two lines: the marginal cost (MC) curve, which slopes upward from the origin, and the inverse demand curve, which slopes downward from a price of 12. The MC curve is labeled as MC = (1/50)Q, and the inverse demand curve is labeled as P = 12 - (1/50)Q. This diagram illustrates the relationship between price and quantity for a monopoly, where the firm sets output where marginal cost equals marginal revenue, not shown here but implied by these curves. The maximum price starts at 12 when quantity is zero, and marginal cost increases linearly with quantity."}
+
+
+# Monopoly and Welfare {.medium-content}
+- The monopoly has two effects on welfare.
+1. It has created a DWL triangle (in gray) since demand is greater than MC for Q between 200 and 300.
+2. It has captured surplus from the consumers (A)  with higher valuations.
+
+![](./Images/Lect2_Slide29.svg){fig-alt="The graph shows price (P) on the vertical axis and quantity (Q) on the horizontal axis with demand (D), marginal cost (MC), and marginal revenue (MR) curves. The monopoly equilibrium is at the intersection of MC and MR, where quantity is 200 and price is 8. The shaded areas represent different welfare effects: the rectangle labeled 'A' indicates monopoly profit, while the triangle between quantities 200 and 300 and prices 4 to 8 shows deadweight loss due to reduced output compared to a competitive market. This illustrates how monopoly pricing reduces total welfare by restricting quantity and raising price above marginal cost."}
+
+
+# Major takeaways {.medium-content}
+- Monopolies arise for a variety of reasons, some of which are good from a societal perspective and some of which are bad.
+- Like PC firms, monopolies also set MR = MC to maximize profits.
+- But, monopolies are not price-takers.  They face a downward sloping demand curve and a downward sloping MR curve.
+- Consequently, a profit maximizing monopoly will cut output below the competitive level and raise price.
+- From a welfare perspective, cutting output below the competitive level creates a DWL triangle.  But, it also transfers surplus from consumers to producers.
+
+# Action Items {.medium-content}
+- The first weekly quiz is tomorrow.  You can do it from 12am – 11:59pm, but if you want the full 10 minutes, you need to start it by 11:49pm…
+- The first problem set is posted.  You can find it on Canvas under Files  Problem Sets.  It is due next Tuesday at the start of class.  Please submit it on Canvas.
+- The textbook is available under Bookshelf on Canvas.  Next class, we will cover Perloff 11.3 – 11.5.
