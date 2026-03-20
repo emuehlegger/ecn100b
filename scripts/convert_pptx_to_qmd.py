@@ -1207,6 +1207,7 @@ def convert(
         'subtitle: "Economics 100B - Intermediate Microeconomics II"\n'
         'author: "Prof. Muehlegger"\n'
         "format:\n"
+        "  html:\n"
         "  revealjs:\n"
         "    slide-level: 1\n"
         "---"

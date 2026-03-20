@@ -3,6 +3,7 @@ title: "Class 1: Introduction"
 subtitle: "Economics 100B - Intermediate Microeconomics II"
 author: "Prof. Muehlegger"
 format:
+  html:
   revealjs:
     slide-level: 1
 ---
@@ -238,7 +239,7 @@ $\Pi   =P*q -\left(9+q^{2}\right)=18-\left(9+3^{2}\right)=0$
   1. Firms are not price-takers (e.g., monopoly)
   2. Actions create benefits or impose costs on others (e.g., air pollution)
   3. Some parties have information that others don’t (e.g., used car reliability)
-- This is where economics brings real value to policy and outlines this course!
+- This is the where economics brings real value to policy and is an outline for this course!
 
 # Major takeaways {.verysmall-content}
 - Perfectly competitive firms set MR = MC to maximize profits.
