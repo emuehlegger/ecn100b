@@ -1000,6 +1000,7 @@ def render_slide(
     )
 
     prev_was_bullet = False
+    prev_was_labeled = False
 
     for tag, elem, ph_type, top, left in all_elems:
         # Skip chrome (title, date, footer, slide number)
@@ -1015,6 +1016,7 @@ def render_slide(
             lines.append(extract_table_from_elem(elem, slide_num))
             lines.append("")
             prev_was_bullet = False
+            prev_was_labeled = False
             continue
 
         # ── Picture ──
@@ -1062,14 +1064,22 @@ def render_slide(
                     lines.append("$$")
                     lines.append("")
                     prev_was_bullet = False
+                    prev_was_labeled = False
 
                 elif item.kind == "text":
                     if item.is_bullet or item.level > 0:
                         indent = "  " * item.level
                         if item.list_label:
+                            is_alpha_label = bool(re.match(r"^[A-Za-z][.)]\s*$", item.list_label))
+                            if prev_was_labeled and is_alpha_label:
+                                lines.append("")
+                                lines.append("<br>")
+                                lines.append("")
                             lines.append(f"{indent}{item.list_label} {item.content}")
+                            prev_was_labeled = is_alpha_label
                         else:
                             lines.append(f"{indent}- {item.content}")
+                            prev_was_labeled = False
                         prev_was_bullet = True
                     else:
                         if prev_was_bullet:
@@ -1077,6 +1087,7 @@ def render_slide(
                         lines.append(item.content)
                         lines.append("")
                         prev_was_bullet = False
+                        prev_was_labeled = False
 
     # ── Slide images (matched by Lect{N}_Slide{M}) ──
     slide_imgs = find_slide_images(images_dir, lect_num, slide_num)
@@ -1208,6 +1219,9 @@ def convert(
         'author: "Prof. Muehlegger"\n'
         "format:\n"
         "  html:\n"
+        "    include-in-header:\n"
+        "      text: |\n"
+        "        <style>div.notes { display: none !important; }</style>\n"
         "  revealjs:\n"
         "    slide-level: 1\n"
         "---"

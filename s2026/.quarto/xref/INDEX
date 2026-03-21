@@ -84,9 +84,11 @@
   "lectures/Class 1 - Introduction.qmd": {
     "Class 1 - Introduction.html": "60435eea",
     "Class-1---Introduction.tex": "94bd51e3",
-    "Class 1 - Introduction_deck.html": "e235a9c3"
+    "Class 1 - Introduction_deck.html": "e235a9c3",
+    "*.html": "fea3e2e3"
   },
   "lectures/Class 2 - Monopoly I.qmd": {
-    "Class 2 - Monopoly I.html": "efc3c368"
+    "Class 2 - Monopoly I.html": "efc3c368",
+    "Class 2 - Monopoly I_deck.html": "e4f63677"
   }
 }
