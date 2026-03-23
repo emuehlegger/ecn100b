@@ -4,6 +4,9 @@ subtitle: "Economics 100B - Intermediate Microeconomics II"
 author: "Prof. Muehlegger"
 format:
   html:
+    include-in-header:
+      text: |
+        <style>div.notes { display: none !important; }</style>
   revealjs:
     slide-level: 1
 ---
